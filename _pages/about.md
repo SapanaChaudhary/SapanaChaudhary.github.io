@@ -29,7 +29,7 @@ MathJax Example
 ======
 Paragraph ipsum lorem…
 
-$$ f(a) = \frac{1}{2\, \pi\, i} $$
+$$ f(a) = \frac{1}{2\, \pi\, i} \, \oint_{\gamma} \frac{f(z)}{z - a}\, dz$$
 
 Site-wide configuration
 ------
