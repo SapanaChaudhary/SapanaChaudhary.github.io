@@ -80,35 +80,35 @@ analytics:
 author:
   name             : "Daniel D. Ferrante"
   avatar           : "profile-IMG_8023.png"
-  bio              : "Chief Data and Science Officer at [SFL Scientific](http://sflscientific.com/)"
+  bio              : "Chief Data and Science Officer at SFL Scientific"
   location         : "New York, NY"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "SFL Scientific"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=5feeAJQAAAAJ&view_op=list_works&gmla=AJsN-F5yge-be38EkUR-nrjE9D4ZBK4HWaseXz8piaO-zV9GnJzVvscQS8QWQAtKlxaCsVXb8rJmWpG0p2JqYyX4XZDwhvnsnayyHVRoBctb2PDaAj58I4A"
   email            :
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/danieldf"
   foursquare       :
   github           : "danieldf"
   google_plus      :
-  keybase          :
+  keybase          : "https://keybase.io/danieldf"
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/danieldf/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "sflscientific"
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCLOHPwSZNZ9ZMvjWVioAeQQ?view_as=subscriber"
   wikipedia        :
 
 
