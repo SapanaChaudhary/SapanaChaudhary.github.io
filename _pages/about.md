@@ -29,7 +29,11 @@ MathJax Example
 ======
 Paragraph ipsum lorem…
 
-$$ f(a) = \frac{1}{2\, \pi\, i} \, \oint_{\gamma} \frac{f(z)}{z - a}\, dz$$
+$$ f(a) = \frac{1}{2\, \pi\, i} \, \oint_{\gamma} \frac{f(z)}{z - a}\, dz \;. $$
+
+Another one…
+
+$$ e^{i\, \pi} + 1 = 0 \; . $$
 
 Site-wide configuration
 ------
