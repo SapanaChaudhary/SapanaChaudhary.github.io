@@ -9,6 +9,10 @@ redirect_from:
 
 ## Relevants Links, Bookmarks, and References
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
+* [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [Network-wide ad blocking](https://pi-hole.net/)
 * [Awesome OS X Command Line](https://github.com/herrbischoff/awesome-osx-command-line)
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps)
