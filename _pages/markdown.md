@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Relevants Links, Bookmarks, and References
+* [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 * [Network-wide ad blocking](https://pi-hole.net/)
 * [Awesome OS X Command Line](https://github.com/herrbischoff/awesome-osx-command-line)
 * [Awesome Command Line Apps](https://github.com/herrbischoff/awesome-command-line-apps)
