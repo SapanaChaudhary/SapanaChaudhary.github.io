@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "From Symmetry Breaking to Topology Change I"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2006-09-26-From-Symmetry-Breaking-to-Topology-Change-I
+excerpt: 'By means of an analogy with Classical Mechanics and Geometrical Optics, we are able to reduce Lagrangians to a kinetic term only. This form enables us to examine the extended solution set of field theories by finding the geodesics of this kinetic term's metric. This new geometrical standpoint sheds light on some foundational issues of QFT and brings to the forefront core aspects of field theory.'
+date: 2006-09-26
+venue: 'arXiv:hep-th'
+paperurl: 'https://arxiv.org/abs/hep-th/0609190'
+citation: 'D. D. Ferrante, G. S. Guralnik. (2006). &quot;From Symmetry Breaking to Topology Change I.&quot; <i>arXiv:hep-th</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+By means of an analogy with Classical Mechanics and Geometrical Optics, we are able to reduce Lagrangians to a kinetic term only. This form enables us to examine the extended solution set of field theories by finding the geodesics of this kinetic term's metric. This new geometrical standpoint sheds light on some foundational issues of QFT and brings to the forefront core aspects of field theory.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://arxiv.org/abs/hep-th/0609190)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: D. D. Ferrante, G. S. Guralnik. (2006). "From Symmetry Breaking to Topology Change I." <i>arXiv:hep-th</i>.
