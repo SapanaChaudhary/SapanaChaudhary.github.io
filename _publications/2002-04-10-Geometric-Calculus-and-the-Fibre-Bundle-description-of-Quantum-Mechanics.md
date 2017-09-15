@@ -1,7 +1,7 @@
 ---
 title: "Geometric Calculus and the Fibre Bundle description of Quantum Mechanics"
 collection: publications
-permalink: /publication/2002-04-10-paper-title-number-1.md
+permalink: /publication/2002-04-10-paper-title-number-1
 excerpt: 'This work has the purpose of applying the concept of Geometric Calculus (Clifford Algebras) to the Fibre Bundle description of Quantum Mechanics. Thus, it is intended to generalize that formulation to curved spacetimes [the base space of the fibre bundle in question] in a more natural way.'
 date: 2002-04-10
 venue: 'arXiv/math-ph'
