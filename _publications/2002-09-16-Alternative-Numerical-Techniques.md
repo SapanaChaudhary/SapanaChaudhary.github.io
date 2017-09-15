@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Alternative Numerical Techniques"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2002-09-16-Alternative-Numerical-Techniques
+excerpt: 'Two new approaches to numerical QFT are presented.'
+date: 2002-09-16
+venue: 'arXiv:hep-lat'
+paperurl: 'https://arxiv.org/abs/hep-lat/0209127'
+citation: 'G. S. Guralnik, J. Doll, R. Easther, P. Emirdag, D. D. Ferrante, S. Hahn, D. Petrov, D. Sabo. (2002). &quot;Alternative Numerical Techniques.&quot; <i>arXiv:hep-lat</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Two new approaches to numerical QFT are presented.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://arxiv.org/abs/hep-lat/0209127)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: G. S. Guralnik, J. Doll, R. Easther, P. Emirdag, D. D. Ferrante, S. Hahn, D. Petrov, D. Sabo. (2002). "Alternative Numerical Techniques." <i>arXiv:hep-lat</i>.
