@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Mollifying Quantum Field Theory or Lattice QFT in Minkowski Spacetime and Symmetry Breaking"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2008-09-16-Phase-Transitions-and-Moduli-Space-Topology
+excerpt: 'This work develops and applies the concept of mollification in order to smooth out highly oscillatory exponentials. This idea, known for quite a while in the mathematical community (mollifiers are a means to smooth distributions), is new to numerical Quantum Field Theory. It is potentially very useful for calculating phase transitions [highly oscillatory integrands in general], for computations with imaginary chemical potentials and Lattice QFT in Minkowski spacetime.'
+date: 2008-09-16
+venue: 'arXiv:hep-lat'
+paperurl: 'https://arxiv.org/abs/hep-lat/0602013'
+citation: 'D. D. Ferrante, G. S. Guralnik. (2008). &quot;Mollifying Quantum Field Theory or Lattice QFT in Minkowski Spacetime and Symmetry Breaking.&quot; <i>arXiv:hep-lat</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This work develops and applies the concept of mollification in order to smooth out highly oscillatory exponentials. This idea, known for quite a while in the mathematical community (mollifiers are a means to smooth distributions), is new to numerical Quantum Field Theory. It is potentially very useful for calculating phase transitions [highly oscillatory integrands in general], for computations with imaginary chemical potentials and Lattice QFT in Minkowski spacetime.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://arxiv.org/abs/hep-lat/0602013)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: D. D. Ferrante, G. S. Guralnik. (2008). "Mollifying Quantum Field Theory or Lattice QFT in Minkowski Spacetime and Symmetry Breaking." <i>arXiv:hep-lat</i>.
