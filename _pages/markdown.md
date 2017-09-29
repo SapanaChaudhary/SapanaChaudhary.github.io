@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Relevants Links, Bookmarks, and References
+* [Everything you need to know about Tmux copy paste](http://www.rushiagr.com/blog/2016/06/16/everything-you-need-to-know-about-tmux-copy-pasting/)
 * [Awesome Data Science](https://github.com/bulutyazilim/awesome-datascience)
 * [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
