@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "Symmetry Breaking: A New Paradigm for Non-Perturbative QFT and Topological Transitions"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2009-04-14-Symmetry-Breaking-A-New-Paradigm-for-Non-Perturbative-QFT-and-Topological-Transitions
+excerpt: 'Symmetry Breaking is used as an 'underlying principle', bringing different features of QFT to the foreground. However, the understanding of Symmetry Breaking that is used here is quite different from what is done in the mainstream: Symmetry Breaking is understood as the solution set of a given QFT, its vacuum manifold, or, more modernly, its Moduli Space. Distinct solutions correspond to different sectors, phases, of the theory, which are nothing but distinct foliations of the vacuum manifold, or points in the Moduli Space (for all possible values of the parameters of the theory). Under this framework, three different problems will be attacked: 'Mollifying QFT', 'Topological Transitions and Geometric Langlands Duality' and 'Three-dimensional Gravity and its Phase Transitions'. The first makes use of the Moduli Space of the theory in order to construct an appropriate mollification of it, rendering it viable to simulate a QFT in Lorentzian spaces, tackling the 'sign problem' heads-on. The connections with Lee-Yang zeros and Stokes Phenomena will be made clear. The second will show that each different phase has its own topology which can be used as Superselection Rule/ moreover, the Euler Characteristic of each phase gives it quantization condition. The mechanism via which several dualities work will also be elucidated. The last one will generalize a 0-dimensional QFT, via dimensional construction through its D-Module, and conjecture several connections between the Lie-algebra-valued extension of the Airy function and the recent Partition Function found for three-dimensional gravity with a negative cosmological constant. These three problems, put together, should exhibit a solid and robust framework for treating QFT under this new paradigm.'
+date: 2009-04-14
+venue: 'arXiv:0904.2205'
+paperurl: 'http://arxiv.org/abs/arXiv:0904.2205'
+citation: 'D. D. Ferrante. (2009). &quot;Symmetry Breaking: A New Paradigm for Non-Perturbative QFT and Topological Transitions.&quot; <i>arXiv:0904.2205</i>.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Symmetry Breaking is used as an 'underlying principle', bringing different features of QFT to the foreground. However, the understanding of Symmetry Breaking that is used here is quite different from what is done in the mainstream: Symmetry Breaking is understood as the solution set of a given QFT, its vacuum manifold, or, more modernly, its Moduli Space. Distinct solutions correspond to different sectors, phases, of the theory, which are nothing but distinct foliations of the vacuum manifold, or points in the Moduli Space (for all possible values of the parameters of the theory). Under this framework, three different problems will be attacked: 'Mollifying QFT', 'Topological Transitions and Geometric Langlands Duality' and 'Three-dimensional Gravity and its Phase Transitions'. The first makes use of the Moduli Space of the theory in order to construct an appropriate mollification of it, rendering it viable to simulate a QFT in Lorentzian spaces, tackling the 'sign problem' heads-on. The connections with Lee-Yang zeros and Stokes Phenomena will be made clear. The second will show that each different phase has its own topology which can be used as Superselection Rule/ moreover, the Euler Characteristic of each phase gives it quantization condition. The mechanism via which several dualities work will also be elucidated. The last one will generalize a 0-dimensional QFT, via dimensional construction through its D-Module, and conjecture several connections between the Lie-algebra-valued extension of the Airy function and the recent Partition Function found for three-dimensional gravity with a negative cosmological constant. These three problems, put together, should exhibit a solid and robust framework for treating QFT under this new paradigm.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://arxiv.org/abs/arXiv:0904.2205)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: D. D. Ferrante. (2009). "Symmetry Breaking: A New Paradigm for Non-Perturbative QFT and Topological Transitions." <i>arXiv:0904.2205</i>.
