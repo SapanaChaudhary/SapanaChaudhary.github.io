@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Daniel D. Ferrante / GitHub Pages Website"
+title                    : "Sapana Chaudhary"
 title_separator          : "-"
-name                     : &name "Daniel D. Ferrante"
-description              : &description "Chief Data Officer at SFL Scientific"
-url                      : https://danieldf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sapana Chaudhary"
+description              : &description "Research Intern, Max Planck Institute for Software Systems, Saarbrücken, Germany"
+url                      : https://SapanaChaudhary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "danieldf/danieldf.github.io"
+repository               : "SapanaChaudhary/SapanaChaudhary.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,37 +78,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel D. Ferrante"
-  avatar           : "profile-IMG_8023.png"
-  bio              : "Chief Data and Science Officer at SFL Scientific"
-  location         : "New York, NY"
-  employer         : "SFL Scientific"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=5feeAJQAAAAJ&view_op=list_works&gmla=AJsN-F5yge-be38EkUR-nrjE9D4ZBK4HWaseXz8piaO-zV9GnJzVvscQS8QWQAtKlxaCsVXb8rJmWpG0p2JqYyX4XZDwhvnsnayyHVRoBctb2PDaAj58I4A"
-  email            : danieldf@sflscientific.com
+  name             : "Sapana Chaudhary"
+  avatar           : "profile.png"
+  bio              : "Research Intern, Max Planck Institute for Software Systems"
+  location         : "Saarbrücken, Germany"
+  employer         : "Max Planck Institute for Software Systems"
+  #googlescholar    : "https://scholar.google.com/citations?hl=en&user=5feeAJQAAAAJ&view_op=list_works&gmla=AJsN-F5yge-be38EkUR-nrjE9D4ZBK4HWaseXz8piaO-zV9GnJzVvscQS8QWQAtKlxaCsVXb8rJmWpG0p2JqYyX4XZDwhvnsnayyHVRoBctb2PDaAj58I4A"
+  email            : ee15s300[at]iitm[dot]ac[dot]in
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/danieldf"
+  #facebook         : "https://www.facebook.com/danieldf"
   foursquare       :
-  github           : "danieldf"
+  github           : "https://github.com/SapanaChaudhary"
   google_plus      :
-  keybase          : "https://keybase.io/danieldf"
+  #keybase          : "https://keybase.io/danieldf"
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/danieldf/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "linkedin.com/in/sapana-chaudhary-65482692"
+  #orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "sflscientific"
+  twitter          : "https://twitter.com/Sapana_007"
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCLOHPwSZNZ9ZMvjWVioAeQQ?view_as=subscriber"
+  youtube          : #"https://www.youtube.com/channel/UCLOHPwSZNZ9ZMvjWVioAeQQ?view_as=subscriber"
   wikipedia        :
 
 
