@@ -11,21 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. in Molecular Sciences, University of São Paulo, 1999
-* M.S. in Physics, Brown University, 2002
-* Ph.D in Theoretical Physics, Brown University, 2009
+* M.S. (Research) in Computational Science, IIT Madras, Chennai, India, 2018
+* B.E. in Electronics and Communication Engineering, PES University, Bangalore, India, 2014
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Intern, Oct-2018-present
+  * Max Planck Institute for Software Systems
+  * Project: Machine Teaching
+  * Supervisor: Dr. Adish Singla
   
 Skills
 ======
