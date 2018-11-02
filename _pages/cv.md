@@ -87,16 +87,9 @@ group. Summer 2016.
 * impressIT : Proof of Concept IT Solution
 Presented the summer project on ’An Intelligent System for Making Hospital Announcements
 for Emergency’ at SAP Labs, Bangalore, Oct 2013. 
-
-#<ul>{% for post in site.publications %}
-   # {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
   
 Teaching and Mentoring 
 ======
-  #<ul>{% for post in site.teaching %}
-   # {% include archive-single-cv.html %}
-  #{% endfor %}</ul>
 * Designed written and programming assignments, solved tutorial problems and conducted
 tutorial sessions for the following courses:
   * Machine Learning for Computer Vision, Spring 2016
