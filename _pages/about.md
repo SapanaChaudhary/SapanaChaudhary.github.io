@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+{% include base_path %}
 
 I'm a research intern in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/index.html) at the Max Planck Institute for Software Systems, Saarbrücken, Germany. I am being advised by [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html).    
 
