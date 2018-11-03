@@ -5,34 +5,33 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<details><summary>Reinforcement Learning</summary>
-<p>
+<details>
+  <summary>Reinforcement Learning</summary>
 
-### Smoother Imitation with Lipschitz Costs
-* With Akshat Dave, Balaraman Ravindran
-* Accepted for Poster Presentation at NIPS DRL Symposium 2017.
-* Generative Adversarial Imitation Learning (GAIL) presents a specific approach to the
-task of imitating an expert by jointly modelling the environment’s reinforcement signal
-and the imitating agent’s policy. GAIL provides state-of-the-art results in imitating
-complex behaviours in large, high dimensional environments. However, the algorithm
-often suffers from instability during the training and high variance in the returns and
-the trajectories. In this work, we propose a GAIL-like framework for learning smoother
-imitation and achieving consistently meaningful learning gradients. The learned policyachieves better performance than the existing methods in terms of closeness to the expert trajectories and the value of the true returns. We propose metrics to evaluate for the better imitation of the expert and the smoothness of the learned policies. We
+  ### Smoother Imitation with Lipschitz Costs
+  * With Akshat Dave, Balaraman Ravindran
+  * Accepted for Poster Presentation at NIPS DRL Symposium 2017.
+  * Generative Adversarial Imitation Learning (GAIL) presents a specific approach to the
+    task of imitating an expert by jointly modelling the environment’s reinforcement signal
+    and the imitating agent’s policy. GAIL provides state-of-the-art results in imitating
+    complex behaviours in large, high dimensional environments. However, the algorithm
+    often suffers from instability during the training and high variance in the returns and
+    the trajectories. In this work, we propose a GAIL-like framework for learning smoother
+    imitation and achieving consistently meaningful learning gradients. The learned policyachieves better performance than          the existing methods in terms of closeness to the expert trajectories and the value of the true returns. We propose metrics     to evaluate for the better imitation of the expert and the smoothness of the learned policies. We
 empirically evaluate the algorithm on simulated continuous control tasks from MuJoCo.
 
-### On the Analysis of Lipschitz Smoothness of Costs for Learning Smooth Policies
+  ### On the Analysis of Lipschitz Smoothness of Costs for Learning Smooth Policies
 
 
-### Variance Reduction in Policy Gradients through Smooth Costs  
+  ### Variance Reduction in Policy Gradients through Smooth Costs  
 
 
-### Learning Domain-Invariant Policies in RL
+  ### Learning Domain-Invariant Policies in RL
 </p>
 </details>
 
 
 <details><summary>Optimization</summary>
-<p> 
   
 ### Analyzing and Quantifying Missing Modes in GANs
 
@@ -64,7 +63,6 @@ reviewed paper on ”Constrained convex minimization via model-based excessive g
 2014)”
 
 ### Natural Gradient Descent for Neural Networks
-</p>
 </details>
 
 
