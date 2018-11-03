@@ -24,7 +24,6 @@ author_profile: true
 <summary>Variance Reduction in Policy Gradients through Smooth Costs</summary>  
 
 </details>
------------------------------------------------------------------------------------
 
 <details>
 <summary>Learning Domain-Invariant Policies in RL</summary>
@@ -81,6 +80,7 @@ reviewed paper on ”Constrained convex minimization via model-based excessive g
 <summary>Natural Gradient Descent for Neural Networks</summary>
 </details>
 
+-----------------------------------------------------------------------------------
 
 ## Machine Learning
 
@@ -93,6 +93,7 @@ classification task resulting in the best mean F1-measure for the 100 classes.
 
 </details>
 
+-----------------------------------------------------------------------------------
 
 ## Systems
   
