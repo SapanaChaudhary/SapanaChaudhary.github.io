@@ -60,49 +60,6 @@ Scholastic Achievements
 * All India 13th Rank in AISSE 2008 conducted by CBSE
 * Top 0.1 percent of successful candidates in AISSE 2008 in Science
 
-Publications and Seminars
-======
-* SILC: Smoother Imitation with Lipschitz Costs. Sapana Chaudhary*, Akshat Dave*,
-Balaraman Ravindran. Accepted for poster presentation at the 1 st Workshop on Goal
-Specification in Reinforcement Learning at ICML 2018. (* - Equal Contribution)
-
-* Smooth costs result in smooth policies. Sapana Chaudhary, Akshat Dave, Balaraman
-Ravindran. Presented as a poster at RBC-DSAI Second Workshop on Recent Progress in Data
-Science and AI, held at IIT Madras in April 2018.
-
-* SILC: Smoother Imitation with Lipschitz Costs. Sapana Chaudhary*, Akshat Dave*,
-Balaraman Ravindran. Accepted for poster presentation at Deep Reinforcement Learning
-Symposium at NIPS 2017. (* - Equal Contribution) (Paper)
-
-* Smoother Imitation with Lipschitz Costs. Presented as a poster at RBC-DSAI First
-Workshop on Recent Progress in Data Science and AI, held at IIT Madras in November 2017.
-
-* Lab talk on natural gradient descent for neural networks
-Explored and presented about natural gradient descent at RISE Lab, IIT Madras.
-
-* Deep learning study group
-Delivered talks on optimization for neural networks as a part of the Deep Learning study
-group. Summer 2016. 
-
-* impressIT : Proof of Concept IT Solution
-Presented the summer project on ’An Intelligent System for Making Hospital Announcements
-for Emergency’ at SAP Labs, Bangalore, Oct 2013. 
-  
-Teaching and Mentoring 
-======
-* Designed written and programming assignments, solved tutorial problems and conducted
-tutorial sessions for the following courses:
-  * Machine Learning for Computer Vision, Spring 2016
-  * Introduction to Machine Learning, Fall 2016
-  * Machine Learning for Computer Vision, Spring 2017
-  * Probability Foundations for Electrical Engineers, Fall 2017
-  * Reinforcement Learning, Spring 2018
- 
-* Mentored the following students with their projects and internship:
-  * Rahul Vallivel (BTech, NIT, Trichy) : On mode missing in GANs, Summer 2017
-  * Nived Narayanan (BTech, IIT Madras) : On domain invariant IL, Fall 2017 
-  * Vaibhav N., Anshuman K. (Btech, IIT Madras) : On smooth rewards in IL, Spring 2018
-
 Awards and scholarship
 ======
 * Grace Hopper Conference India Student Scholarship, 2015
