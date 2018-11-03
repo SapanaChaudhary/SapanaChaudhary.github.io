@@ -42,6 +42,7 @@ empirically evaluate the algorithm on simulated continuous control tasks from Mu
 
 <details><summary>Optimization</summary>
   
+
 ### Analyzing and Quantifying Missing Modes in GANs
 
 * With Rahul Vallivel, Mitesh Khapra, Balaraman Ravindran
