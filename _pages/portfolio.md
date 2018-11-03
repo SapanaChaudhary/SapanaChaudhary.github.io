@@ -10,7 +10,7 @@ author_profile: true
   <p>
 
 &nbsp;
-  ### Smoother Imitation with Lipschitz Costs
+  #### Smoother Imitation with Lipschitz Costs
   * With Akshat Dave, Balaraman Ravindran
   * Accepted for Poster Presentation at NIPS DRL Symposium 2017.
   * Generative Adversarial Imitation Learning (GAIL) presents a specific approach to the
