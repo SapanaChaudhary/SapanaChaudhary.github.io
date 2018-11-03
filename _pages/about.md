@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---   
 
-I'm a reinforcement learning researcher. The focus of my reserach is to use principles from human cognition and psychology to build better reinforcement learning agents.    
+I'm a reinforcement learning researcher. The focus of my reserach is to use principles from the human cognition and psychology to build better reinforcement learning agents.    
 
 I'm a research intern in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/index.html) at the Max Planck Institute for Software Systems, Saarbrucken, Germany. I am being advised by [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html).
 
