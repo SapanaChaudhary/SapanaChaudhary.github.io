@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Portfolio"
+title: "Projects"
 permalink: /portfolio/
 author_profile: true
 ---
 
-<details><summary>## Reinforcement Learning</summary>
+<details><summary>Reinforcement Learning</summary>
 <p>
 
 ### Smoother Imitation with Lipschitz Costs
@@ -19,7 +19,7 @@ author_profile: true
 </p>
 </details>
  
-<details><summary>## Optimization</summary>
+<details><summary>Optimization</summary>
 <p>
 
 ### Analyzing and Quantifying Missing Modes in GANs
@@ -37,7 +37,7 @@ author_profile: true
 </p>
 </details>
 
-<details><summary>## Machine Learning</summary>
+<details><summary>Machine Learning</summary>
 <p>
 
 ### Multi-class classification of 100 class data 
@@ -45,7 +45,7 @@ author_profile: true
 </p>
 </details>
 
-<details><summary>## Systems</summary>
+<details><summary>Systems</summary>
 <p>
 
 ### Automatic Vehicle Speed Reduction using GPS
