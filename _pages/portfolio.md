@@ -7,10 +7,9 @@ author_profile: true
 
 <details>
   <summary>Reinforcement Learning</summary>
-  
   <p>
 
-
+&nbsp;
   ### Smoother Imitation with Lipschitz Costs
   * With Akshat Dave, Balaraman Ravindran
   * Accepted for Poster Presentation at NIPS DRL Symposium 2017.
