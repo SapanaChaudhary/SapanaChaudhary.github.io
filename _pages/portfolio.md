@@ -11,9 +11,12 @@ author_profile: true
 
   ### Smoother Imitation with Lipschitz Costs
 
+
   ### On the Analysis of Lipschitz Smoothness of Costs for Learning Smooth Policies
 
+
   ### Variance Reduction in Policy Gradients through Smooth Costs  
+
 
   ### Learning Domain-Invariant Policies in RL
   </p>
@@ -25,13 +28,18 @@ author_profile: true
   
   ### Analyzing and Quantifying Missing Modes in GANs
 
+
   ### Localization of Cellular Networks 
+
 
   ### Spectrum Cartography using Wireless Cellular Data
 
+
   ### James-Stein Estimator
 
+
   ### Report on 'Constrained convex minimization via model based excessive gap'
+
 
   ### Natural Gradient Descent for Neural Networks
   </p>
@@ -42,7 +50,9 @@ author_profile: true
   <p>
 
   ### Multi-class classification of 100 class data 
-  </p>
+
+
+</p>
 </details>
 
 
@@ -51,10 +61,15 @@ author_profile: true
   
   ### Automatic Vehicle Speed Reduction using GPS
 
+
   ### RFID based Localization 
+
 
   ### Wireless Energy Meter Module Development 
 
+
   ### WiFi Channel Modelling 
-  </p>
+
+
+</p>
 </details>
