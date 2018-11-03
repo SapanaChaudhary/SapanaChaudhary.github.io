@@ -7,7 +7,7 @@ author_profile: true
 
 <details>
   <summary>Reinforcement Learning</summary>
-
+  <p>
 ### Smoother Imitation with Lipschitz Costs
   * With Akshat Dave, Balaraman Ravindran
   * Accepted for Poster Presentation at NIPS DRL Symposium 2017.
@@ -28,7 +28,7 @@ empirically evaluate the algorithm on simulated continuous control tasks from Mu
 
 -----------------------------------------------------------------------------------
   ### Learning Domain-Invariant Policies in RL
-
+<\p>
 </details>
 
 
