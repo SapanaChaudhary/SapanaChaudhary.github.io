@@ -5,8 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching  
-======
 Designed written and programming assignments, solved tutorial problems and conducted
 tutorial sessions for the following courses:
   * Machine Learning for Computer Vision, Spring 2016
