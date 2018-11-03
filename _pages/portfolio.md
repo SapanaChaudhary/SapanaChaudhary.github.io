@@ -20,12 +20,13 @@ author_profile: true
     imitation and achieving consistently meaningful learning gradients. The learned policyachieves better performance than          the existing methods in terms of closeness to the expert trajectories and the value of the true returns. We propose metrics     to evaluate for the better imitation of the expert and the smoothness of the learned policies. We
 empirically evaluate the algorithm on simulated continuous control tasks from MuJoCo.
 
+-----------------------------------------------------------------------------------
   ### On the Analysis of Lipschitz Smoothness of Costs for Learning Smooth Policies
 
-
+-----------------------------------------------------------------------------------
   ### Variance Reduction in Policy Gradients through Smooth Costs  
 
-
+-----------------------------------------------------------------------------------
   ### Learning Domain-Invariant Policies in RL
 
 </details>
