@@ -28,7 +28,7 @@ empirically evaluate the algorithm on simulated continuous control tasks from Mu
 
 -----------------------------------------------------------------------------------
   ### Learning Domain-Invariant Policies in RL
-<\p>
+</p>
 </details>
 
 
