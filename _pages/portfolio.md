@@ -31,7 +31,7 @@ author_profile: true
 
   ### James-Stein Estimator
 
-  ### Report on <q>Constrained convex minimization via model based excessive gap<\q>
+  ### Report on 'Constrained convex minimization via model based excessive gap'
 
   ### Natural Gradient Descent for Neural Networks
   </p>
