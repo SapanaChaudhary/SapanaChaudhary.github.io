@@ -5,7 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-## Reinforcement Learning 
+<details><summary>## Reinforcement Learning</summary>
+<p>
 
 ### Smoother Imitation with Lipschitz Costs
 
@@ -15,7 +16,11 @@ author_profile: true
 
 ### Learning Domain-Invariant Policies in RL
 
-## Optimization 
+</p>
+</details>
+ 
+<details><summary>## Optimization</summary>
+<p>
 
 ### Analyzing and Quantifying Missing Modes in GANs
 
@@ -29,11 +34,19 @@ author_profile: true
 
 ### Natural Gradient Descent for Neural Networks
 
-## Machine Learning 
+</p>
+</details>
+
+<details><summary>## Machine Learning</summary>
+<p>
 
 ### Multi-class classification of 100 class data 
 
-## Systems 
+</p>
+</details>
+
+<details><summary>## Systems</summary>
+<p>
 
 ### Automatic Vehicle Speed Reduction using GPS
 
@@ -42,5 +55,11 @@ author_profile: true
 ### Wireless Energy Meter Module Development 
 
 ### WiFi Channel Modelling 
+
+</p>
+</details>
+
+
+
 
 
