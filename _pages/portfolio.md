@@ -5,31 +5,37 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-<details>
-<summary>Reinforcement Learning</summary>
+## Reinforcement Learning
 
-#### Smoother Imitation with Lipschitz Costs
+<details>
+<summary>Smoother Imitation with Lipschitz Costs</summary>
+  
  * With Akshat Dave, Balaraman Ravindran
  * Accepted for Poster Presentation at NIPS DRL Symposium 2017.
  * Generative Adversarial Imitation Learning (GAIL) presents a specific approach to the task of imitating an expert by jointly modelling the environment’s reinforcement signal and the imitating agent’s policy. GAIL provides state-of-the-art results in imitating complex behaviours in large, high dimensional environments. However, the algorithm often suffers from instability during the training and high variance in the returns and the trajectories. In this work, we propose a GAIL-like framework for learning smoother imitation and achieving consistently meaningful learning gradients. The learned policyachieves better performance than the existing methods in terms of closeness to the expert trajectories and the value of the true returns. We propose metrics to evaluate for the better imitation of the expert and the smoothness of the learned policies. We empirically evaluate the algorithm on simulated continuous control tasks from MuJoCo.
------------------------------------------------------------------------------------
-
-### On the Analysis of Lipschitz Smoothness of Costs for Learning Smooth Policies
------------------------------------------------------------------------------------
-
-### Variance Reduction in Policy Gradients through Smooth Costs  
------------------------------------------------------------------------------------
-
-### Learning Domain-Invariant Policies in RL
------------------------------------------------------------------------------------
-
 </details>
 
-
-<details><summary>Optimization</summary>
+<details>
+<summary>On the Analysis of Lipschitz Smoothness of Costs for Learning Smooth Policies</summary>
   
+</details>
 
-### Analyzing and Quantifying Missing Modes in GANs
+<details>
+<summary>Variance Reduction in Policy Gradients through Smooth Costs</summary>  
+
+</details>
+-----------------------------------------------------------------------------------
+
+<details>
+<summary>Learning Domain-Invariant Policies in RL</summary>
+
+</details>
+-----------------------------------------------------------------------------------
+
+## Optimization
+
+<details>
+<summary>Analyzing and Quantifying Missing Modes in GANs</summary>
 
 * With Rahul Vallivel, Mitesh Khapra, Balaraman Ravindran
 * In this work, we analyse various issues with the Generative Adversarial Network (GAN)
@@ -43,28 +49,43 @@ author_profile: true
   * We also run experiments to measure input covariate shift in GANs, using gradient
     of the discriminator with respect to the inputs to quantify the same.
 
-### Localization of Cellular Networks 
+</details>
 
+<details>
+<summary>Localization of Cellular Networks</summary> 
 
-### Spectrum Cartography using Wireless Cellular Data
+</details>
 
+<details>
+<summary>Spectrum Cartography using Wireless Cellular Data</summary>
 
-### James-Stein Estimator
+</details>
+
+<details>
+<summary>James-Stein Estimator</summary>
+  
 Studied JS-Estimator to perform biased estimation for orthogonal frequency division
 multiplexing in the Wireless Communications course.
 
-### Report on 'Constrained convex minimization via model based excessive gap'
+</details>
+
+<details>
+<summary>Report on 'Constrained convex minimization via model based excessive gap'</summary>
 As a part of Term Paper Presentation in the course on Algorithms for Convex Optimization,
 reviewed paper on ”Constrained convex minimization via model-based excessive gap (NIPS
 2014)”
 
-### Natural Gradient Descent for Neural Networks
+</details>
+
+<details>
+<summary>Natural Gradient Descent for Neural Networks</summary>
 </details>
 
 
-<details><summary>Machine Learning</summary>
+## Machine Learning
 
-### Multi-class classification of 100 class data 
+<details>
+<summary>Multi-class classification of 100 class data</summary> 
   
 This project was done as a part of course on Introduction to Machine Learning. The train data
 provided corresponded to a 100 class classification problem. We had to perform the
@@ -73,18 +94,24 @@ classification task resulting in the best mean F1-measure for the 100 classes.
 </details>
 
 
-<details><summary>Systems</summary>
+## Systems
   
-### Automatic Vehicle Speed Reduction using GPS
+<details>
+<summary>Automatic Vehicle Speed Reduction using GPS</summary>
 
+</details>
 
-### RFID based Localization 
+<details>
+<summary>RFID based Localization</summary> 
 
+</details>
 
-### Wireless Energy Meter Module Development 
-
-
-### WiFi Channel Modelling 
-
+<details>
+<summary>Wireless Energy Meter Module Development</summary> 
+  
+</details>
+  
+<details>
+<summary>WiFi Channel Modelling</summary> 
 
 </details>
