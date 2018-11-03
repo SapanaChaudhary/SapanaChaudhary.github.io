@@ -27,7 +27,7 @@ empirically evaluate the algorithm on simulated continuous control tasks from Mu
 
 
   ### Learning Domain-Invariant Policies in RL
-</p>
+
 </details>
 
 
@@ -67,7 +67,6 @@ reviewed paper on ”Constrained convex minimization via model-based excessive g
 
 
 <details><summary>Machine Learning</summary>
-<p>
 
 ### Multi-class classification of 100 class data 
   
@@ -75,12 +74,10 @@ This project was done as a part of course on Introduction to Machine Learning. T
 provided corresponded to a 100 class classification problem. We had to perform the
 classification task resulting in the best mean F1-measure for the 100 classes.
 
-</p>
 </details>
 
 
 <details><summary>Systems</summary>
-<p>
   
 ### Automatic Vehicle Speed Reduction using GPS
 
@@ -94,5 +91,4 @@ classification task resulting in the best mean F1-measure for the 100 classes.
 ### WiFi Channel Modelling 
 
 
-</p>
 </details>
