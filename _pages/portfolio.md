@@ -8,7 +8,7 @@ author_profile: true
 <details>
 <summary>Reinforcement Learning</summary>
   
-<p>
+<pre>
 
  #### Smoother Imitation with Lipschitz Costs
  * With Akshat Dave, Balaraman Ravindran
@@ -27,7 +27,7 @@ author_profile: true
 
 ### Learning Domain-Invariant Policies in RL
 
-</p>
+</pre>
 </details>
 
 
