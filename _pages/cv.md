@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * M.S. (Research) in Computational Science, IIT Madras, Chennai, India, 2018
