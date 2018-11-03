@@ -16,6 +16,6 @@ tutorial sessions for the following courses:
 Mentoring
 ======
 Mentored the following students with their projects and internship:
-  * Rahul Vallivel (BTech, NIT, Trichy) : On mode missing in GANs, Summer 2017
-  * Nived Narayanan (BTech, IIT Madras) : On domain invariant IL, Fall 2017 
-  * Vaibhav N., Anshuman K. (Btech, IIT Madras) : On smooth rewards in IL, Spring 2018
+  * Rahul Vallivel (BTech, NIT, Trichy) : On Quantifying Mode Missing in GANs, Summer 2017
+  * Nived Narayanan (BTech, IIT Madras) : On Domain Invariant Imitation Learning, Fall 2017 
+  * Vaibhav N., Anshuman K. (Btech, IIT Madras) : On Smooth Rewards in Imitation Learning, Spring 2018
