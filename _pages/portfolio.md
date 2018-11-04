@@ -143,7 +143,7 @@ reviewed paper on ”Constrained convex minimization via model-based excessive g
 <summary>Multi-class classification of 100 class data</summary> 
 
 <ul>
-  <li> Project Page: Project Page: <a href="https://sapanachaudhary.github.io/Multi-Class-Classification/" style="color: #FA8072">Multi Class Classification</a></li>
+  <li> Project Page: <a href="https://sapanachaudhary.github.io/Multi-Class-Classification/" style="color: #FA8072">Multi Class Classification</a></li>
   <li> This project was done as a part of course on Introduction to Machine Learning. The train data
 provided corresponded to a 100 class classification problem. We had to perform the
 classification task resulting in the best mean F1-measure for the 100 classes.</li>
@@ -159,7 +159,7 @@ classification task resulting in the best mean F1-measure for the 100 classes.</
 <summary>Automatic Vehicle Speed Reduction using GPS</summary>
 
 <ul>
-  <li> <a href="https://github.com/SapanaChaudhary/SapanaChaudhary.github.io/blob/master/files/adaptive_vehicle_speed_monitoring.pdf" style="color: #FA8072"/> Project Report</li>
+  <li> <a href="https://github.com/SapanaChaudhary/SapanaChaudhary.github.io/blob/master/files/adaptive_vehicle_speed_monitoring.pdf" style="color: #FA8072"> Project Report</a></li>
   <li> </li>
 </ul>  
 
