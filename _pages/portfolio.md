@@ -179,18 +179,22 @@ classification task resulting in the best mean F1-measure for the 100 classes.</
 <summary>Wireless Energy Meter Module Development</summary> 
 
 <ul>
-  <li> </li>
-  <li> </li>
+  <li>With Anushree Singh, Venkatesh Vadde</li>
+  <li>Energy meters that can send their readings wirelessly to a centralised meter can be of great
+use; in developing analytics for the energy consumption by heavy duty appliances in a given
+area. We can plot energy usage to identify places for conservation.
+In our project we have developed an Arduino based Energy Meter modules that would
+transmit the ‘on’ and ‘off’ state of an appliance to the central meter. The active state of the
+device is measured using a Current Transformer Sensor.</li>
 </ul>  
-
 </details>
   
 <details>
 <summary>WiFi Channel Modelling</summary> 
 
 <ul>
-  <li> </li>
-  <li> </li>
+  <li> With Kishan PB, Sthanuthan Ramakrishnan </li>
+  <li> We collected WiFI AP data from two shopping areas in Bangalore and wrote matlab codes to generate channel models.</li>
 </ul>  
 
 </details>
