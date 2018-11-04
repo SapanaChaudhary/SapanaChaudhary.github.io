@@ -159,7 +159,7 @@ classification task resulting in the best mean F1-measure for the 100 classes.</
 <summary>Automatic Vehicle Speed Reduction using GPS</summary>
 
 <ul>
-  <li> </li>
+  <li> <embed src="https://github.com/SapanaChaudhary/SapanaChaudhary.github.io/blob/master/files/adaptive_vehicle_speed_monitoring.pdf" type="application/pdf" /></li>
   <li> </li>
 </ul>  
 
