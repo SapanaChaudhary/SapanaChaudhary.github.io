@@ -105,7 +105,7 @@ learned policies.</li>
 <summary>James-Stein Estimator</summary>
 
 <ul>
-  <li>Project Page: <a href="https://sapanachaudhary.github.io/Biased-Estimation-for-Channel-Estimation/">Biased Estimator for Channel Estimation</a></li>
+  <li>Project Page: <a href="https://sapanachaudhary.github.io/Biased-Estimation-for-Channel-Estimation/" style="color: #FA8072">Biased Estimator for Channel Estimation</a></li>
   <li>Studied JS-Estimator to perform biased estimation for orthogonal frequency division
 multiplexing in the Wireless Communications course.</li>
 </ul>  
@@ -129,7 +129,7 @@ reviewed paper on ”Constrained convex minimization via model-based excessive g
 <summary>Natural Gradient Descent for Neural Networks</summary>
 
 <ul>
-  <li> Project Page: <a href="https://sapanachaudhary.github.io/On-Natural-Gradients/">Lab talk on natural gradient descent for neural networks</a></li>
+  <li> Project Page: <a href="https://sapanachaudhary.github.io/On-Natural-Gradients/" style="color: #FA8072">Lab talk on natural gradient descent for neural networks</a></li>
   <li> </li>
 </ul>  
 
@@ -143,7 +143,7 @@ reviewed paper on ”Constrained convex minimization via model-based excessive g
 <summary>Multi-class classification of 100 class data</summary> 
 
 <ul>
-  <li> Project Page: Project Page: <a href="https://sapanachaudhary.github.io/Multi-Class-Classification/">Multi Class Classification</a></li>
+  <li> Project Page: Project Page: <a href="https://sapanachaudhary.github.io/Multi-Class-Classification/" style="color: #FA8072">Multi Class Classification</a></li>
   <li> This project was done as a part of course on Introduction to Machine Learning. The train data
 provided corresponded to a 100 class classification problem. We had to perform the
 classification task resulting in the best mean F1-measure for the 100 classes.</li>
