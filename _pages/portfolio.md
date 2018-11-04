@@ -95,7 +95,7 @@ learned policies.</li>
 <summary>Spectrum Cartography using Wireless Cellular Data</summary>
 
 <ul>
-  <li> Project Page: <a href="https://sapanachaudhary.github.io/Power-Spectrum-Cartography/">Power Spectrum Cartography</a></li>
+  <li> Project Page: <a href="https://sapanachaudhary.github.io/Power-Spectrum-Cartography/"> <font color="red">Power Spectrum Cartography</font></a></li>
   <li> </li>
 </ul>  
 
