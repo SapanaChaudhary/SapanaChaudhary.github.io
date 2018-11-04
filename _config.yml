@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Sapana Chaudhary"
 description              : &description "Research Intern, Max Planck Institute for Software Systems, Saarbrücken, Germany"
 url                      : https://SapanaChaudhary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "SapanaChaudhary/SapanaChaudhary.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -38,7 +38,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "ee15s300@ee.iitm.ac.in"
   generatedFields:
     date:
       type               : "date"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : Sapana Chaudhary
 facebook:
   username               :
   app_id                 :
@@ -84,7 +84,7 @@ author:
   location         : "Saarbrücken, Germany"
   employer         : "MPI-SWS"
   #googlescholar    : "https://scholar.google.com/citations?hl=en&user=5feeAJQAAAAJ&view_op=list_works&gmla=AJsN-F5yge-be38EkUR-nrjE9D4ZBK4HWaseXz8piaO-zV9GnJzVvscQS8QWQAtKlxaCsVXb8rJmWpG0p2JqYyX4XZDwhvnsnayyHVRoBctb2PDaAj58I4A"
-  email            : ee15s300[at]iitm[dot]ac[dot]in
+  email            : ee15s300.iitm.ac.in
   uri              :
   bitbucket        :
   codepen          :
