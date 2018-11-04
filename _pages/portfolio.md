@@ -85,8 +85,26 @@ learned policies.</li>
 <summary>Localization in Cellular Networks</summary> 
 
 <ul>
-  <li> </li>
-  <li> </li>
+  <li> With Radha Krishna Ganti </li>
+  <li> The problem of mobile user localization in wireless cellular networks has received
+considerable attention in the cellular communications community. This is mainly because
+localization finds applications in commercial services and network optimization, to name
+a few . Before we go on to describe the localization problem, let us quickly introduce
+what cellular networks are. Our main contributions in this part of the work are as follows : 
+    <ul> 
+      <li> We briefly discuss the effect of non-line-of-sight (NLOS) on the localization procedure, and leave inclusion of NLOS in our set of algorithms as a future work.</li>
+      <li> We first understand the nature of the problem by studying Maximum Likelihood Estimate
+(MLE) formulation of the problem. Formulated this way, the problem of localization
+in wireless cellular networks, is a clear inverse problem. We first observe that the loss
+surface of MLE objective is indeed non-convex, making the optimization procedure diffi-
+cult. We then look at how the problem can be converted into a convex problem, through
+semi-definite program (SDP) relaxation. We note that the different SDP relaxations act
+as different regularizations to the problem and result in different solutions.
+We then go on to compare the performance of non-convex optimization of the MLE
+objective using two optimization algorithms : Levenberg Marquardt and trust region
+optimization.</li>
+      <li>We also exploit the geometry of the problem to obtain faster algorithms.</li>
+   </li>
 </ul>  
 
 </details>
@@ -95,8 +113,12 @@ learned policies.</li>
 <summary>Spectrum Cartography using Wireless Cellular Data</summary>
 
 <ul>
+  <li> With Radha Krishna Ganti</li>
   <li> Project Page: <a href="https://sapanachaudhary.github.io/Power-Spectrum-Cartography/" style="color: #FA8072"> Power Spectrum Cartography</a></li>
-  <li> </li>
+  <li> Power Spectrum cartography is the process of contructing
+a map showing received signal strength over a given geographical area. RSSI data is extracted from the raw GSM data. We then use an empirical model of the environment to first localize users roughly. Next, we use an interpolation technique
+on RSSI along with localized locations to obtain the spectrum cartographical maps. To perform this task, we had to start with raw physical layer data provided by Bharat
+Sanchar Nigam Limited (BSNL). </li>
 </ul>  
 
 </details>
@@ -105,6 +127,7 @@ learned policies.</li>
 <summary>James-Stein Estimator</summary>
 
 <ul>
+  <li>With Vaishnavi Adella, Sai Charan Thoutam</li>
   <li>Project Page: <a href="https://sapanachaudhary.github.io/Biased-Estimation-for-Channel-Estimation/" style="color: #FA8072">Biased Estimator for Channel Estimation</a></li>
   <li>Studied JS-Estimator to perform biased estimation for orthogonal frequency division
 multiplexing in the Wireless Communications course.</li>
