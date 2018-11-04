@@ -159,8 +159,17 @@ classification task resulting in the best mean F1-measure for the 100 classes.</
 <summary>Automatic Vehicle Speed Reduction using GPS</summary>
 
 <ul>
+  <li> With Divya BM, Meghana M, Rajehwari B</li>
   <li> <a href="https://github.com/SapanaChaudhary/SapanaChaudhary.github.io/blob/master/files/adaptive_vehicle_speed_monitoring.pdf" style="color: #FA8072">Project Report</a></li>
-  <li> </li>
+  <li> Achieving automatic vehicle speed monitoring and control with minimum add-ons ensures that the size and the
+cost of the vehicle does not increase significantly. In this paper,
+GPS has been used to achieve speed determination and speed
+control based on the current vehicle location. The entire
+geographical region has been divided into finite sized cells for
+speed assignment. The system can be implemented in a variety
+of vehicles right from auto rickshaw, taxis to the luxurious
+SUVs. Also, the idea can be extended to dynamically change
+the speed-limit of a cell based on the traffic density in the cell.</li>
 </ul>  
 
 </details>
@@ -169,8 +178,21 @@ classification task resulting in the best mean F1-measure for the 100 classes.</
 <summary>RFID based Localization</summary> 
 
 <ul>
+  <li> With Meghana M, Srinivas A</li>
   <li> <a href="https://github.com/SapanaChaudhary/SapanaChaudhary.github.io/blob/master/files/inteliigent_hospital_emergency.pdf" style="color: #FA8072">Project Report</a></li>
-  <li> </li>
+  <li> In large hospitals handling emergencies on a day-to-
+day basis, it is very important to locate and ensure the
+availability of medical specialists in a timely manner. This is
+especially significant in situations where doctors will have to
+keep the mobile phones in ‘switch-off’ state in a few patient-
+sensitive areas. In this paper, an RFID based system has been
+developed to determine the location of medical specialists
+inside the hospital and also to make automatic annunciations
+only to the required locations. The RFID based application
+developed in this work and the associated database for a
+structured storage of entities aid in easy and efficient
+functioning of the overall system. The system developed is very
+robust and flexible enough to handle changing environment.</li>
 </ul>  
 
 </details>
