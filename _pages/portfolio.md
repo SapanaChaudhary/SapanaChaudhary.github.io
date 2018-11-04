@@ -104,6 +104,7 @@ We then go on to compare the performance of non-convex optimization of the MLE
 objective using two optimization algorithms : Levenberg Marquardt and trust region
 optimization.</li>
       <li>We also exploit the geometry of the problem to obtain faster algorithms.</li>
+      </ul>
    </li>
 </ul>  
 
