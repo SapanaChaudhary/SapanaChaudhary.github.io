@@ -137,16 +137,10 @@ multiplexing in the Wireless Communications course.</li>
 
 <details>
 <summary>Report on 'Constrained convex minimization via model based excessive gap'</summary>
-<ul>
-  <li> </li>
-  <li> </li>
-</ul>  
-
 
 As a part of Term Paper Presentation in the course on Algorithms for Convex Optimization,
 reviewed paper on ”Constrained convex minimization via model-based excessive gap (NIPS
 2014)”
-
 </details>
 
 <details>
@@ -154,7 +148,6 @@ reviewed paper on ”Constrained convex minimization via model-based excessive g
 
 <ul>
   <li> Project Page: <a href="https://sapanachaudhary.github.io/On-Natural-Gradients/" style="color: #FA8072">Lab talk on natural gradient descent for neural networks</a></li>
-  <li> </li>
 </ul>  
 
 </details>
