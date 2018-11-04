@@ -96,7 +96,7 @@ learned policies.</li>
 <summary>Spectrum Cartography using Wireless Cellular Data</summary>
 
 <ul>
-  <li> </li>
+  <li> Project Page: <a href="https://sapanachaudhary.github.io/Power-Spectrum-Cartography/">Power Spectrum Cartography</a></li>
   <li> </li>
 </ul>  
 
@@ -106,13 +106,10 @@ learned policies.</li>
 <summary>James-Stein Estimator</summary>
 
 <ul>
-  <li> </li>
-  <li> </li>
+  <li>Project Page: <a href="https://sapanachaudhary.github.io/Biased-Estimation-for-Channel-Estimation/">Biased Estimator for Channel Estimation</a></li>
+  <li>Studied JS-Estimator to perform biased estimation for orthogonal frequency division
+multiplexing in the Wireless Communications course.</li>
 </ul>  
-
-Studied JS-Estimator to perform biased estimation for orthogonal frequency division
-multiplexing in the Wireless Communications course.
-
 </details>
 
 <details>
@@ -133,7 +130,7 @@ reviewed paper on ”Constrained convex minimization via model-based excessive g
 <summary>Natural Gradient Descent for Neural Networks</summary>
 
 <ul>
-  <li> </li>
+  <li> Project Page: <a href="https://sapanachaudhary.github.io/On-Natural-Gradients/">Lab talk on natural gradient descent for neural networks</a></li>
   <li> </li>
 </ul>  
 
@@ -147,13 +144,11 @@ reviewed paper on ”Constrained convex minimization via model-based excessive g
 <summary>Multi-class classification of 100 class data</summary> 
 
 <ul>
-  <li> </li>
-  <li> </li>
-</ul>  
-
-This project was done as a part of course on Introduction to Machine Learning. The train data
+  <li> Project Page: Project Page: <a href="https://sapanachaudhary.github.io/Multi-Class-Classification/">Multi Class Classification</a></li>
+  <li> This project was done as a part of course on Introduction to Machine Learning. The train data
 provided corresponded to a 100 class classification problem. We had to perform the
-classification task resulting in the best mean F1-measure for the 100 classes.
+classification task resulting in the best mean F1-measure for the 100 classes.</li>
+</ul>  
 
 </details>
 
