@@ -9,15 +9,13 @@ MS Thesis
 ======
 Sapana Chaudhary. (2018). "On Learning Smooth Policies in Imitation Learning." Indian Institute of Technology Madras, Chennai, India. 
 
-Publications and Talks
+Publications 
 ======
-* Sapana Chaudhary, Akshat Dave, Balaraman Ravindran. (2018) <q>SILC: Smoother Imitation with Lipschitz Costs.</q> Poster at the 1<sup>st</sup> Workshop on Goal Specification in Reinforcement Learning, ICML, July 2018.
+* Sapana Chaudhary, Akshat Dave, Balaraman Ravindran. (2018) <q>SILC: Smoother Imitation with Lipschitz Costs.</q> Poster at: the Deep Reinforcement Learning Symposium, NIPS, Dec 2017; the 1<sup>st</sup> Workshop on Goal Specification in Reinforcement Learning, ICML, July 2018.
 
-* Sapana Chaudhary, Akshat Dave, Balaraman Ravindran. (2018) <q>Smooth Costs Result in Smooth Policies.</q> Poster at RBC-DSAI Second Workshop on Recent Progress in Data Science and AI, IIT Madras, April 2018.
-
-* Sapana Chaudhary, Akshat Dave, Balaraman Ravindran. (2017) <q>SILC: Smoother Imitation with Lipschitz Costs.</q> Poster at Deep Reinforcement Learning Symposium, NIPS, Dec 2017.
-
-* Sapana Chaudhary, Akshat Dave, Balaraman Ravindran. (2017) <q>Smoother Imitation with Lipschitz Costs.</q> Poster at RBC-DSAI First Workshop on Recent Progress in Data Science and AI, IIT Madras, November 2017.
+Talks
+=====
+* <q>Smooth Costs Result in Smooth Policies.</q> Poster at RBC-DSAI First and Second Workshop on Recent Progress in Data Science and AI, IIT Madras, November 2017 and April 2018.
 
 * <q>Natural Gradient Descent for Neural Networks.</q> 
 
