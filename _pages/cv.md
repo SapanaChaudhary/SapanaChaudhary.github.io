@@ -23,17 +23,15 @@ Work experience
 * Associate Software Developer, July 2014- July 2015
   * [RBEI](http://www.bosch-india-software.com/en/our-company/about-us/), Bangalore, India
   * Project: Software development for Human Machine Interface (HMI) for Cadillac
-  * Supervisor: Mr. , Project Manager, ECM Team 
   
 * Intern, Jan 2014 – Jun 2014
   * [RBEI](http://www.bosch-india-software.com/en/our-company/about-us/), Bangalore, India
   * Project: Hardware development for Electronic Control Unit (ECU)
-  * Mentor: Mr. , Hardware Engineer
   
 * Intern, Jun 2012 – Aug 2012
   * [Texas Instruments](http://www.ti.com/en-in/homepage.html), Bangalore, India
   * Project: WiFi Channel Modelling
-  * Mentors: Mr. Sthanuthan Ramakrishnan, Mr. Manoj Kumar  
+  * Mentors: Mr. Sthanuthan Ramakrishnan  
   
 Key Courses 
 ======
