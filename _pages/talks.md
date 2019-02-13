@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-I am interested in the human inspired learning of the artificial agents. 
+I am interested in the human inspired learning of artificial agents. 
 
 Machine agents are increasingly being designed and built to be used in close association with the humans. Specifically, intelligent machines are heavily used in the automatic tutoring systems that assist humans in learning numerous skills like playing a musical instrument, becoming an expert in a scientific/mathematical subject, flying an aircraft, performing a surgery, etc. 
 
