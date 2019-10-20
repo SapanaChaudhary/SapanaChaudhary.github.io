@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sapana Chaudhary"
 title_separator          : "-"
 name                     : &name "Sapana Chaudhary"
-description              : &description "Research Intern, Max Planck Institute for Software Systems, Saarbrücken, Germany"
+description              : &description "Ph.D. Candidate, ECE, Texas A&M University, TX, USA"
 url                      : https://SapanaChaudhary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "SapanaChaudhary/SapanaChaudhary.github.io"
@@ -38,7 +38,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "ee15s300@ee.iitm.ac.in"
+    email                : "sapanac@tamu.edu"
   generatedFields:
     date:
       type               : "date"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Sapana Chaudhary"
   avatar           : "pic_3_1.jpg"
-  bio              : "Research Fellow, Max Planck Institute for Software Systems"
-  location         : "Saarbrücken, Germany"
-  employer         : "MPI-SWS"
+  bio              : "Ph.D. Candidate, Department of Electrical and Computer Engineering"
+  location         : "College Station, TX, USA"
+  employer         : "ECE, Texas A&M University"
   #googlescholar    : "https://scholar.google.com/citations?hl=en&user=5feeAJQAAAAJ&view_op=list_works&gmla=AJsN-F5yge-be38EkUR-nrjE9D4ZBK4HWaseXz8piaO-zV9GnJzVvscQS8QWQAtKlxaCsVXb8rJmWpG0p2JqYyX4XZDwhvnsnayyHVRoBctb2PDaAj58I4A"
   email            : ee15s300.iitm.ac.in
   uri              :
