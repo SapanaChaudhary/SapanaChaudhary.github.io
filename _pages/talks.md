@@ -5,7 +5,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-I am interested in the human inspired learning of artificial agents. 
+I am specializing on understanding how imitation learning can be made more efficient in certain environmental settings.  
+
+As a long term reserach goal, I am interested in the human inspired learning of artificial agents. 
 
 Machine agents are increasingly being designed and built to be used in close association with the humans. Specifically, intelligent machines are heavily used in the automatic tutoring systems that assist humans in learning numerous skills like playing a musical instrument, becoming an expert in a scientific/mathematical subject, flying an aircraft, performing a surgery, etc. 
 
