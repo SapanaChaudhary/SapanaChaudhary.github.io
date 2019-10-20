@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---   
 
-I'm a first year Ph.D. candidate in the Department of Electrical and Computer Engineering at Texas A&M University, TX, USA.  I work on theory and application of Inverse Reinforcement Learning and Imitation Learning.
+I'm a first year Ph.D. candidate in the Department of Electrical and Computer Engineering at the Texas A&M University, TX, USA. I am being advised by [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/). I work on theory and application of Inverse Reinforcement Learning and Imitation Learning.
 
 <!--- In the long run, I want to focus on using principles from the human cognition and psychology to build better reinforcement learning agents.--->    
 
