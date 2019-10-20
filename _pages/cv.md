@@ -9,26 +9,27 @@ redirect_from:
 
 Education
 ======
-* M.S. (Research) in Computational Science, IIT Madras, Chennai, India, 2018
-* B.E. in Electronics and Communication Engineering, PES University, Bangalore, India, 2014
+* Ph.D. Candidadte in ECE, Texas A&M University, College Station, TX, USA. 2019-Present.
+* M.S. (Research) in Computational Science, IIT Madras, Chennai, India. 2018.
+* B.E. in Electronics and Communication Engineering, PES University, Bangalore, India. 2014.
 
 
 Work experience
 ======
-* Research Intern, Oct-2018-present
+* Research Intern, Oct-2018- March-2019.
   * [Max Planck Institute for Software Systems](https://www.mpi-sws.org/), Saarbrücken, Germany
   * Project: Machine Teaching
   * Supervisor: Dr. Adish Singla
 
-* Associate Software Developer, July 2014- July 2015
+* Associate Software Developer, July 2014- July 2015.
   * [RBEI](http://www.bosch-india-software.com/en/our-company/about-us/), Bangalore, India
   * Project: Software development for Human Machine Interface (HMI) for Cadillac
   
-* Intern, Jan 2014 – Jun 2014
+* Intern, Jan 2014 – Jun 2014.
   * [RBEI](http://www.bosch-india-software.com/en/our-company/about-us/), Bangalore, India
   * Project: Hardware development for Electronic Control Unit (ECU)
   
-* Intern, Jun 2012 – Aug 2012
+* Intern, Jun 2012 – Aug 2012.
   * [Texas Instruments](http://www.ti.com/en-in/homepage.html), Bangalore, India
   * Project: WiFi Channel Modelling
   * Mentors: Mr. Sthanuthan Ramakrishnan  
@@ -38,6 +39,8 @@ Key Courses
 * Machine Learning
 * Convex Optimization Algorithms
 * Reinforcement Learning
+* Real Analysis
+* Measure Theoretic Probability
 * Probability and Random Processes
 * Linear Algebra
 * Information Theory and Coding
