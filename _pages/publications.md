@@ -7,6 +7,11 @@ author_profile: true
 
 [**[Google Scholar]**](https://scholar.google.com/citations?user=dsb5VjkAAAAJ&hl=en&oi=ao)
 
+Preprints 
+======
+* **Sapana Chaudhary**, Dileep Kalathil. (2021) <q>Safe Online Convex Optimization with Unknown Linear
+Safety Constraints</q> arxiv preprint. [**[Paper]**](https://arxiv.org/abs/2111.07430)
+
 Publications 
 ======
 * **Sapana Chaudhary**, Balaraman Ravindran. (2022) <q>Smooth Imitation Learning via Smooth Costs and Smooth Policies</q> To appear in the Proceedings of the Fifth Joint International Conference on Data Science and Management of Data (CoDS-COMAD 2022). Research Track. ACM DL. [**[Paper]**](https://arxiv.org/abs/2111.02354)
