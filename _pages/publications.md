@@ -20,4 +20,4 @@ Publications
 
 MS Thesis
 ======
-Sapana Chaudhary. (2018). "On Learning Smooth Policies in Imitation Learning." Indian Institute of Technology Madras, Chennai, India. 
+Sapana Chaudhary. (2018). "On Learning Smooth Policies in Imitation Learning." Indian Institute of Technology Madras, Chennai, India. [[**Thesis**]](https://drive.google.com/file/d/13va0xsQMLM71Dnpza89hIz7cJpBDJEJo/view?usp=sharing)
