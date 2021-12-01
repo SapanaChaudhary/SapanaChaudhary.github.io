@@ -7,13 +7,12 @@ author_profile: true
 
 [**[Google Scholar]**](https://scholar.google.com/citations?user=dsb5VjkAAAAJ&hl=en&oi=ao)
 
-Preprints 
-======
-* **Sapana Chaudhary**, Dileep Kalathil. (2021) <q>Safe Online Convex Optimization with Unknown Linear
-Safety Constraints</q> arxiv preprint. [**[Paper]**](https://arxiv.org/abs/2111.07430)
 
 Publications 
 ======
+* **Sapana Chaudhary**, Dileep Kalathil. (2021) <q>Safe Online Convex Optimization with Unknown Linear
+Safety Constraints</q> To appear in the Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22). [**[Paper]**](https://arxiv.org/abs/2111.07430)
+
 * **Sapana Chaudhary**, Balaraman Ravindran. (2022) <q>Smooth Imitation Learning via Smooth Costs and Smooth Policies</q> To appear in the Proceedings of the Fifth Joint International Conference on Data Science and Management of Data (CoDS-COMAD 2022). Research Track. ACM DL. [**[Paper]**](https://arxiv.org/abs/2111.02354)
 
 * **Sapana Chaudhary**, Akshat Dave, Balaraman Ravindran. (2018) <q>SILC: Smoother Imitation with Lipschitz Costs.</q> Poster at: the Deep Reinforcement Learning Symposium, NIPS, Dec 2017; the 1<sup>st</sup> Workshop on Goal Specification in Reinforcement Learning, ICML, July 2018. [[**Paper**]](https://sites.google.com/view/goalsrl/accepted-papers?authuser=0)
