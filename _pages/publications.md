@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[**[Google Scholar]**](https://scholar.google.com/citations?user=dsb5VjkAAAAJ&hl=en&oi=ao)
+<[**[Google Scholar]**](https://scholar.google.com/citations?user=dsb5VjkAAAAJ&hl=en&oi=ao)>
 
 
 Publications 
