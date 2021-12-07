@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---   
 
-I'm a third year Ph.D. candidate in the Department of Electrical and Computer Engineering at the Texas A&M University, TX, USA. I am being advised by [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/). I study reinforcement learning from an optimization perspective. 
+I'm a third year Ph.D. student in the Department of Electrical and Computer Engineering at the Texas A&M University, TX, USA. I am being advised by [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/). I study reinforcement learning from an optimization perspective. 
 
 <!--- In the long run, I want to focus on using principles from the human cognition and psychology to build better reinforcement learning agents.--->    
 
