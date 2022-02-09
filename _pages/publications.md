@@ -9,9 +9,11 @@ author_profile: true
 Publications 
 ======
 * **Sapana Chaudhary**, Dileep Kalathil. (2022) <q>Safe Online Convex Optimization with Unknown Linear
-Safety Constraints</q> To appear in the Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22). [**[Paper]**](https://arxiv.org/abs/2111.07430)
+Safety Constraints</q> To appear in the Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22). [**[Paper]**](https://arxiv.org/abs/2111.07430)[**[Poster]**](https://drive.google.com/drive/folders/1cBx6YKgaHs1Jllr813Nt4itJkjoPCF1h?usp=sharing)
 
-* **Sapana Chaudhary**, Balaraman Ravindran. (2022) <q>Smooth Imitation Learning via Smooth Costs and Smooth Policies</q> To appear in the Proceedings of the Fifth Joint International Conference on Data Science and Management of Data (CoDS-COMAD 2022). Research Track. ACM DL. [**[Paper]**](https://arxiv.org/abs/2111.02354)
+
+* **Sapana Chaudhary**, Balaraman Ravindran. (2022) <q>Smooth Imitation Learning via Smooth Costs and Smooth Policies</q> To appear in the Proceedings of the Fifth Joint International Conference on Data Science and Management of Data (CoDS-COMAD 2022). Research Track. ACM DL. [**[Paper]**](https://arxiv.org/abs/2111.02354)[**[Slides]**](https://drive.google.com/file/d/13Urazzn2OOb3yVb4uFjRwPPovr_5ODHR/view?usp=sharing)[**[Talk]**](https://drive.google.com/file/d/1wKAQdHyUnFJyBFjsggqdpHjfg2l0XI5f/view?usp=sharing)
+
 
 * **Sapana Chaudhary**, Akshat Dave, Balaraman Ravindran. (2018) <q>SILC: Smoother Imitation with Lipschitz Costs.</q> Poster at: the Deep Reinforcement Learning Symposium, NIPS, Dec 2017; the 1<sup>st</sup> Workshop on Goal Specification in Reinforcement Learning, ICML, July 2018. [[**Paper**]](https://sites.google.com/view/goalsrl/accepted-papers?authuser=0)
 
