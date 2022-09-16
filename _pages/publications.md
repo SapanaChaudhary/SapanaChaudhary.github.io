@@ -8,6 +8,9 @@ author_profile: true
 
 Publications 
 ======
+* Desik Rengarajan^, **Sapana Chaudhary^**, Jaewon Kim, Dileep Kalathil, Srinivas Shakkottai. (2022) <q>Enhanced Meta Reinforcement Learning via Demonstrations in Sparse Reward Environments</q> To appear in the Proceedings of the Thirty-Sixth Conference on Neural Information Processing Systems (NeurIPS-22).
+
+
 * **Sapana Chaudhary**, Dileep Kalathil. (2022) <q>Safe Online Convex Optimization with Unknown Linear
 Safety Constraints</q> To appear in the Proceedings of the Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22). [**[Paper]**](https://arxiv.org/abs/2111.07430)[**[Poster]**](https://drive.google.com/drive/folders/1cBx6YKgaHs1Jllr813Nt4itJkjoPCF1h?usp=sharing)
 
