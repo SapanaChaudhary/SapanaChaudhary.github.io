@@ -10,6 +10,7 @@ author_profile: true
 * **Enhanced Meta Reinforcement Learning via Demonstrations in Sparse Reward Environments**\
 *Desik Rengarajan\*, **Sapana Chaudhary\***, Jaewon Kim, Dileep Kalathil, Srinivas Shakkottai*.\
 To appear in the Proceedings of the Thirty-Sixth Conference on Neural Information Processing Systems (**NeurIPS-22**). (**\*-Equal contribution**)
+[**[Paper]**](https://arxiv.org/abs/2209.13048)
 
 
 * **Safe Online Convex Optimization with Unknown Linear Safety Constraints**\
