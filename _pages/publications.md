@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Dynamic Regret Analysis of Safe Distributed Online Optimization for Convex and Non-convex Problems**\
+_Ting-Jui Chang, **Sapana Chaudhary**, Dileep Kalathil, Shahin Shahrampour_.\
+Pre-print.[**[Paper]**](https://arxiv.org/abs/2302.12320)
+
 * **Enhanced Meta Reinforcement Learning via Demonstrations in Sparse Reward Environments**\
 *Desik Rengarajan\*, **Sapana Chaudhary\***, Jaewon Kim, Dileep Kalathil, Srinivas Shakkottai*.\
 To appear in the Proceedings of the Thirty-Sixth Conference on Neural Information Processing Systems (**NeurIPS-22**). (**\*-Equal contribution**)
