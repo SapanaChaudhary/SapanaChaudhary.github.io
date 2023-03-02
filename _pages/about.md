@@ -18,11 +18,12 @@ I have completed MS (Research) in Computational Science from IIT Madras, India. 
 
 Previously, I was a research fellow at MPI-SWS, Germany with [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). I also did a MS (Research) at IIT Madras with [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Radha Krishna Ganti](http://www.ee.iitm.ac.in/~rganti/). 
 
-<!--- Aside from work, I like to run, [cook, paint, draw, and travel](https://www.instagram.com/a.thing.of.art/). -->
+<!--- Aside from work, I like to run, [cook, paint, and travel](https://www.instagram.com/a.thing.of.art/). -->
 
 ## News
-- Paper on meta-RL in sparse reward environments accepted to NeurIPS 2022! 
-- Spent a wonderful summer in Seattle as an Applied Scientist II intern at Amazon! 
-- Paper on Safe online convex optimization accepted to AAAI 2022! 
-
+- **[Feb 2023]** New paper on Safe distributed OCO out on arxiv! 
+- **[Feb 2023]** Gave an invited talk on 'Adaptivity and safety in sequential decision making' at Rice University! 
+- **[Sep 2022]** Paper on meta-RL in sparse reward environments accepted to NeurIPS 2022! 
+- **[Aug 2022]** Spent a wonderful summer in Seattle as an Applied Scientist II intern at Amazon! 
+- **[Dec 2021]** Paper on Safe online convex optimization accepted to AAAI 2022! 
 
