@@ -21,6 +21,7 @@ Previously, I was a research fellow at MPI-SWS, Germany with [Dr. Adish Singla](
 <!--- Aside from work, I like to run, [cook, paint, and travel](https://www.instagram.com/a.thing.of.art/). -->
 
 ## News
+- **[Apr 2023]** Selected for IJCAI 2023 Doctoral Consortium! 
 - **[Feb 2023]** New paper on Safe distributed OCO out on arxiv! 
 - **[Feb 2023]** Gave an invited talk on 'Adaptivity and safety in sequential decision making' at Rice University! 
 - **[Sep 2022]** Paper on meta-RL in sparse reward environments accepted to NeurIPS 2022! 
