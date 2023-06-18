@@ -21,10 +21,11 @@ Previously, I was a research fellow at MPI-SWS, Germany with [Dr. Adish Singla](
 <!--- Aside from work, I like to run, [cook, paint, and travel](https://www.instagram.com/a.thing.of.art/). -->
 
 ## News
+- **[May 2023]** Back in Seattle for an Applied Scientist intern at Amazon!
 - **[Apr 2023]** Accepted to IJCAI 2023 Doctoral Consortium!
 - **[Feb 2023]** New paper on Safe distributed OCO out on arxiv! 
 - **[Feb 2023]** Gave an invited talk on 'Adaptivity and safety in sequential decision making' at Rice University! 
 - **[Sep 2022]** Paper on meta-RL in sparse reward environments accepted to NeurIPS 2022! 
-- **[Aug 2022]** Spent a wonderful summer in Seattle as an Applied Scientist II intern at Amazon! 
+- **[Aug 2022]** Spent a wonderful summer in Seattle as an Applied Scientist intern at Amazon! 
 - **[Dec 2021]** Paper on Safe online convex optimization accepted to AAAI 2022! 
 
