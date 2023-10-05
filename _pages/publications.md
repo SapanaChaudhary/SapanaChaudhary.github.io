@@ -7,7 +7,13 @@ author_profile: true
 
 * **Dynamic Regret Analysis of Safe Distributed Online Optimization for Convex and Non-convex Problems**\
 _Ting-Jui Chang, **Sapana Chaudhary**, Dileep Kalathil, Shahin Shahrampour_.\
-Pre-print.[**[Paper]**](https://arxiv.org/abs/2302.12320)
+Transactions of Machine Learning Research (**TMLR**), 2023.[**[Paper]**](https://openreview.net/forum?id=xiQXHvL1eN)
+
+
+* **On Safety and Adaptivity in Sequential Decision Making**\
+_**Sapana Chaudhary**_.\
+International Joint Conference on Artificial Intelligence **(IJCAI) Doctoral Consortium**, 2023.[**[Paper]**](https://www.ijcai.org/proceedings/2023/0813.pdf)
+
 
 * **Enhanced Meta Reinforcement Learning via Demonstrations in Sparse Reward Environments**\
 *Desik Rengarajan\*, **Sapana Chaudhary\***, Jaewon Kim, Dileep Kalathil, Srinivas Shakkottai*.\
