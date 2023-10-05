@@ -21,6 +21,7 @@ Previously, I was a research fellow at MPI-SWS, Germany with [Dr. Adish Singla](
 <!--- Aside from work, I like to run, [cook, paint, and travel](https://www.instagram.com/a.thing.of.art/). -->
 
 ## News
+- **[Aug 2023]** Paper on Safe distributed OCO accepted to TMLR!
 - **[May 2023]** Back in Seattle for an Applied Scientist intern at Amazon!
 - **[Apr 2023]** Accepted to IJCAI 2023 Doctoral Consortium!
 - **[Feb 2023]** New paper on Safe distributed OCO out on arxiv! 
