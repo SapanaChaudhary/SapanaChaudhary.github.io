@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---   
 
-Hello! I am Sapana, a final year PhD student at Texas A&M University. I am being advised by [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/). I am passionate about using Reinforcement Learning (RL) to solve challenging real world problems. I have worked on multiple algorithmic paradigms in RL ranging from generative adversarial imitation learning to meta-RL. More recently, I have pivoted towards fine-tuning Large Language Models (LLMs) using Reinforcement Learning from Human Feedback (RLHF). This pivot reflects my growing interest in the intersection of natural language processing and reinforcement learning. I have also built abstractive and extractive Q&A systems using retrieval augmented generation (RAG) and LLMs while doing an applied science internship at Amazon.
+Hello! I am Sapana, a final year PhD student at Texas A&M University. I am being advised by [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/). I am passionate about using Reinforcement Learning (RL) to solve challenging real world problems. 
+
+I have worked on multiple algorithmic paradigms in RL ranging from generative adversarial imitation learning to meta-RL. More recently, I have pivoted towards fine-tuning Large Language Models (LLMs) using Reinforcement Learning from Human Feedback (RLHF). This pivot reflects my growing interest in the intersection of natural language processing and reinforcement learning. I have also built abstractive and extractive Q&A systems using retrieval augmented generation (RAG) and LLMs while doing an applied science internship at Amazon.
 
 <!--- In the long run, I want to focus on using principles from the human cognition and psychology to build better reinforcement learning agents.   
 
