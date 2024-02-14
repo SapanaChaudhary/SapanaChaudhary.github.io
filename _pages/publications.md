@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * **Pedagogical Alignment of Large Language Models**\
-_Shashank Sonkar, Kangqi Ni, **Sapana Chaudhary**, Richard G. Baraniuk_.\
+_Shashank Sonkar\*, Kangqi Ni\*, **Sapana Chaudhary**, Richard G. Baraniuk_.\
 arxiv, 2024.[**[Paper]**](https://arxiv.org/abs/2402.05000)
 
 * **Dynamic Regret Analysis of Safe Distributed Online Optimization for Convex and Non-convex Problems**\
