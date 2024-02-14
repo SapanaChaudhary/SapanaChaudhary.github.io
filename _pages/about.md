@@ -23,6 +23,7 @@ Previously, I was a research fellow at MPI-SWS, Germany with [Dr. Adish Singla](
 <!--- Aside from work, I like to run, [cook, paint, and travel](https://www.instagram.com/a.thing.of.art/). -->
 
 ## News
+- **[Feb 2024]** Paper on Pedagogical Alignment of LLMs out on arxiv!
 - **[Aug 2023]** Paper on Safe distributed OCO accepted to TMLR!
 - **[May 2023]** Back in Seattle for an Applied Scientist intern at Amazon!
 - **[Apr 2023]** Accepted to IJCAI 2023 Doctoral Consortium!
