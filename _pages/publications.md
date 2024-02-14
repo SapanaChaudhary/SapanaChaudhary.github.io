@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Pedagogical Alignment of Large Language Models**\
+_Shashank Sonkar, Kangqi Ni, **Sapana Chaudhary**, Richard G. Baraniuk_.\
+arxiv, 2024.[**[Paper]**](https://arxiv.org/abs/2402.05000)
+
 * **Dynamic Regret Analysis of Safe Distributed Online Optimization for Convex and Non-convex Problems**\
 _Ting-Jui Chang, **Sapana Chaudhary**, Dileep Kalathil, Shahin Shahrampour_.\
 Transactions of Machine Learning Research (**TMLR**), 2023.[**[Paper]**](https://openreview.net/forum?id=xiQXHvL1eN)
