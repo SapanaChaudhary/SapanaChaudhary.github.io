@@ -20,7 +20,7 @@ I have completed MS (Research) in Computational Science from IIT Madras, India. 
 
 Previously, I was a research fellow at MPI-SWS, Germany with [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). I also did a MS (Research) at IIT Madras with [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Radha Krishna Ganti](http://www.ee.iitm.ac.in/~rganti/). 
 
-Aside from work, I like to hike, [cook, paint, and photograph](https://www.instagram.com/a.thing.of.art/).
+Aside from work, I like to hike, cook, paint, and [photograph](https://www.instagram.com/a.thing.of.art/).
 
 ## News
 - **[Feb 2024]** Paper on Pedagogical Alignment of LLMs out on arxiv!
