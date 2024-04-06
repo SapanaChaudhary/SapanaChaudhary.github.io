@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Risk-Averse Finetuning of Large Language Models**\
+_**Sapana Chaudhary**, Ujwal Dinesha, Dileep Kalathil, Srinivas Shakkottai_.\
+Under review.
+
 * **Pedagogical Alignment of Large Language Models**\
 _Shashank Sonkar\*, Kangqi Ni\*, **Sapana Chaudhary**, Richard G. Baraniuk_.\
 arxiv, 2024.[**[Paper]**](https://arxiv.org/abs/2402.05000)
