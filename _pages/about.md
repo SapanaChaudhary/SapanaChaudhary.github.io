@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---   
 
-Hello! I am Sapana, a final year PhD student at Texas A&M University. I am being advised by [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/). I am passionate about using Reinforcement Learning (RL) to solve challenging real world problems. 
+Hello! I am Sapana. I received my doctorate from Texas A&M University (TAMU) working under [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/). I am passionate about making Artificial Intelligent (AI) systems safe. At TAMU, my research primarily focused on including various notions of safety in online learning, reinforcement learning, and more recently, reinforcement learning from human feedback.
 
-I have worked on multiple algorithmic paradigms in RL ranging from generative adversarial imitation learning to meta-RL. More recently, I have pivoted towards fine-tuning Large Language Models (LLMs) using Reinforcement Learning from Human Feedback (RLHF). This pivot reflects my growing interest in the intersection of natural language processing and reinforcement learning. I have also built abstractive and extractive Q&A systems using retrieval augmented generation (RAG) and LLMs while doing an applied science internship at Amazon.
+<!---  I have worked on multiple algorithmic paradigms in RL ranging from generative adversarial imitation learning to meta-RL. More recently, I have pivoted towards fine-tuning Large Language Models (LLMs) using Reinforcement Learning from Human Feedback (RLHF). This pivot reflects my growing interest in the intersection of natural language processing and reinforcement learning. I have also built abstractive and extractive Q&A systems using retrieval augmented generation (RAG) and LLMs while doing an applied science internship at Amazon.
 
-<!--- In the long run, I want to focus on using principles from the human cognition and psychology to build better reinforcement learning agents.   
+In the long run, I want to focus on using principles from the human cognition and psychology to build better reinforcement learning agents.   
 
 Previously, I was a research fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/index.html) at the Max Planck Institute for Software Systems, Saarbrücken, Germany. I was advised by [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html).
 
