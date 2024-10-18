@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---   
 
-Hello! I am Sapana. I received my doctorate from Texas A&M University (TAMU) working under [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/). I am passionate about making Artificial Intelligent (AI) systems safe. At TAMU, my research primarily focused on including various notions of safety in online learning, reinforcement learning, and more recently, reinforcement learning from human feedback.
+Hello! I'm Sapana, an Applied Scientist at Amazon, specializing in reinforcement learning (RL). I focus on developing solutions for complex decision-making challenges in Generative AI systems.
+
+I received my doctorate from Texas A&M University (TAMU) working with [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/). Here, I focussed on making Artificial Intelligent (AI) systems safe by including various notions of safety in online learning, RL, and reinforcement learning from human feedback (RLHF).
 
 <!---  I have worked on multiple algorithmic paradigms in RL ranging from generative adversarial imitation learning to meta-RL. More recently, I have pivoted towards fine-tuning Large Language Models (LLMs) using Reinforcement Learning from Human Feedback (RLHF). This pivot reflects my growing interest in the intersection of natural language processing and reinforcement learning. I have also built abstractive and extractive Q&A systems using retrieval augmented generation (RAG) and LLMs while doing an applied science internship at Amazon.
 
@@ -23,7 +25,9 @@ Previously, I was a research fellow at MPI-SWS, Germany with [Dr. Adish Singla](
 Aside from work, I like to hike, cook, paint, and [photograph](https://www.instagram.com/a.thing.of.art/).
 
 ## News
-- **[Feb 2024]** Paper on Pedagogical Alignment of LLMs out on arxiv!
+- **[Sep 2024]** Paper on Risk Averse RLHF accepted to Neurips 2024!
+- **[Sep 2024]** Paper on Pedagogical Alignment of LLMs accepted to EMNLP 2024!
+- **[Aug 2024]** Joined Amazon Web Services (AWS) as an Applied Scientist!
 - **[Aug 2023]** Paper on Safe distributed OCO accepted to TMLR!
 - **[May 2023]** Back in Seattle for an Applied Scientist intern at Amazon!
 - **[Apr 2023]** Accepted to IJCAI 2023 Doctoral Consortium!
