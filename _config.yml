@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sapana Chaudhary"
 title_separator          : "-"
 name                     : &name "Sapana Chaudhary"
-description              : &description "Ph.D. Student, ECE, Texas A&M University, TX, USA"
+description              : &description "Applied Scientist II, AWS"
 url                      : https://SapanaChaudhary.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "SapanaChaudhary/SapanaChaudhary.github.io"
@@ -38,7 +38,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "sapanac@tamu.edu"
+    email                : "sapana.chaudhary.007@gmail.com"
   generatedFields:
     date:
       type               : "date"
@@ -80,9 +80,9 @@ analytics:
 author:
   name             : "Sapana Chaudhary"
   avatar           : "sapana_avatar_2024.JPG"
-  bio              : "Ph.D. Student, Department of Electrical and Computer Engineering"
-  employer         : "Texas A&M University"
-  location         : "College Station, TX, USA"
+  bio              : "Applied Scientist II, AWS"
+  employer         : "Amazon Web Services (AWS)"
+  location         : "New York, NY, USA"
   #googlescholar    : "https://scholar.google.com/citations?hl=en&user=5feeAJQAAAAJ&view_op=list_works&gmla=AJsN-F5yge-be38EkUR-nrjE9D4ZBK4HWaseXz8piaO-zV9GnJzVvscQS8QWQAtKlxaCsVXb8rJmWpG0p2JqYyX4XZDwhvnsnayyHVRoBctb2PDaAj58I4A"
   email            : sapanac@tamu.edu
   uri              :
