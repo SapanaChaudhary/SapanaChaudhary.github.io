@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! I'm Sapana, an Applied Scientist at Amazon, specializing in reinforcement learning (RL). I focus on developing solutions for complex decision-making challenges in Generative AI systems.
 
-I received my doctorate from Texas A&M University (TAMU) working with [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/). Here, I focussed on making Artificial Intelligent (AI) systems safe by including various notions of safety in online learning, RL, and reinforcement learning from human feedback (RLHF).
+I received my doctorate from Texas A&M University (TAMU) working with [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/). At TAMU, I focussed on making Artificial Intelligent (AI) systems safe by including various notions of safety in online learning, RL, and reinforcement learning from human feedback (RLHF). Previously, I was a research fellow at MPI-SWS, Germany with [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). I also did a MS (Research) at IIT Madras with [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Radha Krishna Ganti](http://www.ee.iitm.ac.in/~rganti/). 
 
 <!---  I have worked on multiple algorithmic paradigms in RL ranging from generative adversarial imitation learning to meta-RL. More recently, I have pivoted towards fine-tuning Large Language Models (LLMs) using Reinforcement Learning from Human Feedback (RLHF). This pivot reflects my growing interest in the intersection of natural language processing and reinforcement learning. I have also built abstractive and extractive Q&A systems using retrieval augmented generation (RAG) and LLMs while doing an applied science internship at Amazon.
 
@@ -19,8 +19,6 @@ In the long run, I want to focus on using principles from the human cognition an
 Previously, I was a research fellow in the [Machine Teaching Group](https://machineteaching.mpi-sws.org/index.html) at the Max Planck Institute for Software Systems, Saarbrücken, Germany. I was advised by [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html).
 
 I have completed MS (Research) in Computational Science from IIT Madras, India. My advisors during MS were [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Radha Krishna Ganti](http://www.ee.iitm.ac.in/~rganti/). My MS thesis is titled 'On Learning Smooth Policies in Imitation Learning'. -->
-
-Previously, I was a research fellow at MPI-SWS, Germany with [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). I also did a MS (Research) at IIT Madras with [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Radha Krishna Ganti](http://www.ee.iitm.ac.in/~rganti/). 
 
 Aside from work, I like to hike, cook, paint, and [photograph](https://www.instagram.com/a.thing.of.art/).
 
