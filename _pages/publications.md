@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**\
+_Ke Yang, Yao Liu, **Sapana Chaudhary**, Rasool Fakoor, Pratik Chaudhari, George Karypis, Huzefa Rangwala_.\
+arxiv preprint. [**[Paper]**](https://arxiv.org/pdf/2410.13825v1)
+
 * **Risk-Averse Finetuning of Large Language Models**\
 _**Sapana Chaudhary**, Ujwal Dinesha, Dileep Kalathil, Srinivas Shakkottai_.\
 To appear in Neural Information Processing Systems (**NeurIPS, 2024**).
