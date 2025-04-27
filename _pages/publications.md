@@ -5,9 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+* **Teaching Large Language Models to Reason through Learning and Forgetting**\
+_Tianwei Ni, Allen Nie, **Sapana Chaudhary**, Yao Liu, Huzefa Rangwala, Rasool Fakoor_.\
+arxiv preprint, 2025. [**[Paper]**]([https://arxiv.org/pdf/2410.13825v1](https://arxiv.org/abs/2504.11364))
+
 * **AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents**\
 _Ke Yang, Yao Liu, **Sapana Chaudhary**, Rasool Fakoor, Pratik Chaudhari, George Karypis, Huzefa Rangwala_.\
-To appear in ICLR 2025. [**[Paper]**](https://arxiv.org/pdf/2410.13825v1)
+International Conference on Learning Representations (**ICLR 2025**). [**[Paper]**](https://arxiv.org/pdf/2410.13825v1)
 
 * **Risk-Averse Finetuning of Large Language Models**\
 _**Sapana Chaudhary**, Ujwal Dinesha, Dileep Kalathil, Srinivas Shakkottai_.\
