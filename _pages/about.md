@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---   
 
-Hello! I'm Sapana, an Applied Scientist at Amazon, specializing in reinforcement learning (RL). I focus on developing solutions for complex decision-making challenges in Generative AI systems.
+Hello! I'm Sapana, an Applied Scientist at Amazon, specializing in reinforcement learning (RL) Post-training.
 
 I received my doctorate from Texas A&M University (TAMU) working with [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/). At TAMU, I focussed on making AI systems safe by including various notions of safety in online learning, RL, and reinforcement learning from human feedback (RLHF). Previously, I was a research fellow at MPI-SWS, Germany with [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html). I also did a MS (Research) at IIT Madras with [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Radha Krishna Ganti](http://www.ee.iitm.ac.in/~rganti/). 
 
@@ -23,6 +23,8 @@ I have completed MS (Research) in Computational Science from IIT Madras, India. 
 Aside from work, I like to hike, cook, paint, and [photograph](https://www.instagram.com/a.thing.of.art/).
 
 ## News
+- **[Mar 2025]** Paper on reasoning distillation out on arxiv!
+- **[Jan 2025]** AgentOccam accepted to ICLR 2025!
 - **[Sep 2024]** Paper on Risk Averse RLHF accepted to Neurips 2024!
 - **[Sep 2024]** Paper on Pedagogical Alignment of LLMs accepted to EMNLP 2024!
 - **[Aug 2024]** Joined Amazon Web Services (AWS) as an Applied Scientist!
