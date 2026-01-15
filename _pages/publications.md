@@ -5,11 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-## RL for LLM Reasoning and Alignment
+## Coding and Inference Time Search
+
+* **MaxCode: A Max-Reward Reinforcement Learning Framework for Automated Code Optimization**\
+_Jiefu Ou, **Sapana Chaudhary**, Kaj Bostrom, Nathaniel Weir, Shuai Zhang, Huzefa Rangwala, George Karypis_.\
+arxiv preprint, 2026. [**[Paper]**]([https://arxiv.org/abs/2601.05475](https://arxiv.org/abs/2511.04662))
+
+
+## Reward Modeling 
 
 * **VeriCoT: Neuro-symbolic Chain-of-Thought Validation via Logical Consistency Checks**\
 _Yu Feng, Nathaniel Weir, Kaj Bostrom, Sam Bayless, Darion Cassel, **Sapana Chaudhary**, Benjamin Kiesl-Reiter, Huzefa Rangwala_.\
 arxiv preprint, 2025. [**[Paper]**]([https://arxiv.org/abs/2511.04662](https://arxiv.org/abs/2511.04662))
+
+
+## RL for LLM Reasoning and Alignment
 
 * **Offline Learning and Forgetting for Reasoning with Large Language Models**\
 _Tianwei Ni, Allen Nie, **Sapana Chaudhary**, Yao Liu, Huzefa Rangwala, Rasool Fakoor_.\
