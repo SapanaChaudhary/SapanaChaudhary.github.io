@@ -9,5 +9,5 @@ paperurl: 'https://arxiv.org/abs/2601.05475'
 citation: 'Jiefu Ou, Sapana Chaudhary, Kaj Bostrom, Nathaniel Weir, Shuai Zhang, Huzefa Rangwala, George Karypis. (2026). MaxCode: A Max-Reward Reinforcement Learning Framework for Automated Code Optimization. arXiv preprint.'
 authors: 'Jiefu Ou, <strong>Sapana Chaudhary</strong>, Kaj Bostrom, Nathaniel Weir, Shuai Zhang, Huzefa Rangwala, George Karypis'
 category: 'Coding and Inference Time Search'
-teaser: 'paper-thumbnails/maxcode.svg'
+teaser: 'paper-thumbnails/maxcode.png'
 ---
