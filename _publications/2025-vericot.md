@@ -9,5 +9,5 @@ paperurl: 'https://arxiv.org/abs/2511.04662'
 citation: 'Yu Feng, Nathaniel Weir, Kaj Bostrom, Sam Bayless, Darion Cassel, Sapana Chaudhary, Benjamin Kiesl-Reiter, Huzefa Rangwala. (2025). VeriCoT: Neuro-symbolic Chain-of-Thought Validation via Logical Consistency Checks. arXiv preprint.'
 authors: 'Yu Feng, Nathaniel Weir, Kaj Bostrom, Sam Bayless, Darion Cassel, <strong>Sapana Chaudhary</strong>, Benjamin Kiesl-Reiter, Huzefa Rangwala'
 category: 'Reward Modeling'
-teaser: 'paper-thumbnails/vericot.png'
+teaser: 'paper-thumbnails/vericot.svg'
 ---

@@ -9,5 +9,5 @@ paperurl: 'https://www.ijcai.org/proceedings/2023/0813.pdf'
 citation: 'Sapana Chaudhary. (2023). On Safety and Adaptivity in Sequential Decision Making. IJCAI Doctoral Consortium 2023.'
 authors: '<strong>Sapana Chaudhary</strong>'
 category: 'Safe and Adaptive Sequential Decision Making'
-teaser: 'paper-thumbnails/safety-adaptivity.png'
+teaser: 'paper-thumbnails/safety-adaptivity.svg'
 ---

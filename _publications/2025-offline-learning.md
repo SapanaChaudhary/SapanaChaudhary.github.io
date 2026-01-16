@@ -9,5 +9,5 @@ paperurl: 'https://openreview.net/pdf?id=RF6raEUATc'
 citation: 'Tianwei Ni, Allen Nie, Sapana Chaudhary, Yao Liu, Huzefa Rangwala, Rasool Fakoor. (2025). Offline Learning and Forgetting for Reasoning with Large Language Models. TMLR.'
 authors: 'Tianwei Ni, Allen Nie, <strong>Sapana Chaudhary</strong>, Yao Liu, Huzefa Rangwala, Rasool Fakoor'
 category: 'RL for LLM Reasoning and Alignment'
-teaser: 'paper-thumbnails/offline-learning.png'
+teaser: 'paper-thumbnails/offline-learning.svg'
 ---

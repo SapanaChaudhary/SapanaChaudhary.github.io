@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <rect width="400" height="60" fill="#dc2626"/>
+
+  <text x="200" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    Risk-Averse Finetuning
+  </text>
+
+  <text x="200" y="125" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Risk-Averse Objectives for
+  </text>
+  <text x="200" y="150" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Large Language Models
+  </text>
+
+  <!-- Risk curve visualization -->
+  <path d="M 100 220 Q 150 180, 200 210 T 300 220" stroke="#dc2626" stroke-width="3" fill="none" opacity="0.6"/>
+  <path d="M 100 230 Q 150 210, 200 225 T 300 230" stroke="#10b981" stroke-width="3" fill="none" opacity="0.6"/>
+  <circle cx="200" cy="210" r="4" fill="#dc2626"/>
+  <circle cx="200" cy="225" r="4" fill="#10b981"/>
+</svg>

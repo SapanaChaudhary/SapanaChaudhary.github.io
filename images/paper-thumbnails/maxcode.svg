@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <rect width="400" height="60" fill="#4a90e2"/>
+
+  <text x="200" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    MaxCode
+  </text>
+
+  <text x="200" y="120" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Max-Reward RL Framework
+  </text>
+  <text x="200" y="145" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    for Automated Code
+  </text>
+  <text x="200" y="170" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Optimization
+  </text>
+
+  <circle cx="80" cy="240" r="8" fill="#4a90e2" opacity="0.6"/>
+  <circle cx="200" cy="235" r="12" fill="#4a90e2" opacity="0.8"/>
+  <circle cx="320" cy="240" r="8" fill="#4a90e2" opacity="0.6"/>
+  <line x1="80" y1="240" x2="200" y2="235" stroke="#4a90e2" stroke-width="2" opacity="0.4"/>
+  <line x1="200" y1="235" x2="320" y2="240" stroke="#4a90e2" stroke-width="2" opacity="0.4"/>
+</svg>

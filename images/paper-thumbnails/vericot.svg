@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <rect width="400" height="60" fill="#7c3aed"/>
+
+  <text x="200" y="35" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    VeriCoT
+  </text>
+
+  <text x="200" y="115" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Neuro-Symbolic Chain-of-Thought
+  </text>
+  <text x="200" y="140" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Validation via Logical
+  </text>
+  <text x="200" y="165" font-family="Arial, sans-serif" font-size="14" fill="#333" text-anchor="middle">
+    Consistency Checks
+  </text>
+
+  <!-- Neural network icon -->
+  <circle cx="120" cy="220" r="6" fill="#7c3aed" opacity="0.7"/>
+  <circle cx="140" cy="240" r="6" fill="#7c3aed" opacity="0.7"/>
+  <circle cx="160" cy="220" r="6" fill="#7c3aed" opacity="0.7"/>
+
+  <!-- Logical symbol -->
+  <text x="250" y="235" font-family="Arial, sans-serif" font-size="24" fill="#7c3aed" opacity="0.7">∀∃</text>
+
+  <!-- Check mark -->
+  <path d="M 310 210 L 320 225 L 340 205" stroke="#10b981" stroke-width="4" fill="none"/>
+</svg>
