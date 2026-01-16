@@ -280,6 +280,12 @@
     border-radius: $border-radius;
     border: 1px solid $border-color;
     box-shadow: 0 2px 4px rgba(#000, 0.1);
+    cursor: pointer;
+    transition: opacity 0.2s ease-in-out;
+
+    &:hover {
+      opacity: 0.8;
+    }
   }
 }
 

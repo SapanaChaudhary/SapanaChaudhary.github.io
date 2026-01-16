@@ -3,7 +3,9 @@
 <div class="publication-item">
   {% if include.post.teaser %}
   <div class="publication-item__image">
-    <img src="{{ include.post.teaser | prepend: '/images/' | prepend: base_path }}" alt="{{ include.post.title }}">
+    <a href="{{ include.post.teaser | prepend: '/images/' | prepend: base_path }}">
+      <img src="{{ include.post.teaser | prepend: '/images/' | prepend: base_path }}" alt="{{ include.post.title }}">
+    </a>
   </div>
   {% endif %}
 
