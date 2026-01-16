@@ -9,5 +9,5 @@ paperurl: 'https://arxiv.org/pdf/2410.13825v1'
 citation: 'Ke Yang, Yao Liu, Sapana Chaudhary, Rasool Fakoor, Pratik Chaudhari, George Karypis, Huzefa Rangwala. (2025). AgentOccam: A Simple Yet Strong Baseline for LLM-Based Web Agents. ICLR 2025.'
 authors: 'Ke Yang, Yao Liu, <strong>Sapana Chaudhary</strong>, Rasool Fakoor, Pratik Chaudhari, George Karypis, Huzefa Rangwala'
 category: 'LLM Agents and Tool Use'
-teaser: 'paper-thumbnails/agentoccam.svg'
+teaser: 'paper-thumbnails/agentoccam.png'
 ---
