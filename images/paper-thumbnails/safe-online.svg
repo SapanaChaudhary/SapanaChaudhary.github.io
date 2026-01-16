@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <rect width="400" height="60" fill="#0d9488"/>
+
+  <text x="200" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">
+    Safe Online Convex Optimization
+  </text>
+  <text x="200" y="50" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    with Unknown Linear Safety Constraints
+  </text>
+
+  <text x="200" y="115" font-family="Arial, sans-serif" font-size="13" fill="#333" text-anchor="middle">
+    Learning and Satisfying Unknown
+  </text>
+  <text x="200" y="135" font-family="Arial, sans-serif" font-size="13" fill="#333" text-anchor="middle">
+    Linear Safety Constraints Online
+  </text>
+
+  <!-- Convex optimization visualization -->
+  <ellipse cx="200" cy="210" rx="80" ry="40" fill="none" stroke="#0d9488" stroke-width="2" opacity="0.5"/>
+  <circle cx="200" cy="210" r="6" fill="#0d9488"/>
+
+  <!-- Safety constraint -->
+  <line x1="120" y1="185" x2="280" y2="235" stroke="#ef4444" stroke-width="2" stroke-dasharray="5,3" opacity="0.6"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <rect width="400" height="60" fill="#14b8a6"/>
+
+  <text x="200" y="30" font-family="Arial, sans-serif" font-size="17" font-weight="bold" fill="white" text-anchor="middle">
+    Smooth Imitation Learning
+  </text>
+  <text x="200" y="50" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    via Smooth Costs and Smooth Policies
+  </text>
+
+  <text x="200" y="115" font-family="Arial, sans-serif" font-size="13" fill="#333" text-anchor="middle">
+    Smooth Cost Functions and Policy
+  </text>
+  <text x="200" y="135" font-family="Arial, sans-serif" font-size="13" fill="#333" text-anchor="middle">
+    Regularization for Stable Imitation Learning
+  </text>
+
+  <!-- Expert trajectory (smooth) -->
+  <path d="M 80 190 Q 130 180, 180 190 T 280 190 T 320 200" stroke="#14b8a6" stroke-width="3" fill="none" opacity="0.7"/>
+
+  <!-- Learner trajectory (less smooth) -->
+  <path d="M 80 220 L 110 210 L 140 225 L 170 215 L 200 230 L 230 220 L 260 235 L 290 225 L 320 230" stroke="#f59e0b" stroke-width="2" fill="none" opacity="0.5" stroke-dasharray="3,2"/>
+</svg>

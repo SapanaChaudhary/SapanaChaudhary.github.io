@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <rect width="400" height="60" fill="#ec4899"/>
+
+  <text x="200" y="28" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="white" text-anchor="middle">
+    Enhanced Meta Reinforcement Learning
+  </text>
+  <text x="200" y="48" font-family="Arial, sans-serif" font-size="13" fill="white" text-anchor="middle">
+    via Demonstrations in Sparse Reward Environments
+  </text>
+
+  <text x="200" y="110" font-family="Arial, sans-serif" font-size="13" fill="#333" text-anchor="middle">
+    Accelerating Meta-RL with Demonstrations
+  </text>
+  <text x="200" y="130" font-family="Arial, sans-serif" font-size="13" fill="#333" text-anchor="middle">
+    in Sparse Reward Environments
+  </text>
+
+  <!-- Task distribution -->
+  <circle cx="120" cy="190" r="15" fill="#ec4899" opacity="0.4"/>
+  <circle cx="160" cy="210" r="15" fill="#ec4899" opacity="0.4"/>
+  <circle cx="200" cy="195" r="15" fill="#ec4899" opacity="0.4"/>
+  <circle cx="240" cy="210" r="15" fill="#ec4899" opacity="0.4"/>
+  <circle cx="280" cy="190" r="15" fill="#ec4899" opacity="0.4"/>
+
+  <!-- Meta learner -->
+  <circle cx="200" cy="240" r="20" fill="#ec4899" opacity="0.7"/>
+  <text x="200" y="247" font-family="Arial, sans-serif" font-size="16" fill="white" text-anchor="middle">θ</text>
+</svg>

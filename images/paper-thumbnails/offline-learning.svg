@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <rect width="400" height="60" fill="#8b5cf6"/>
+
+  <text x="200" y="30" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="white" text-anchor="middle">
+    Offline Learning and Forgetting
+  </text>
+  <text x="200" y="50" font-family="Arial, sans-serif" font-size="14" fill="white" text-anchor="middle">
+    for Reasoning with LLMs
+  </text>
+
+  <text x="200" y="125" font-family="Arial, sans-serif" font-size="13" fill="#333" text-anchor="middle">
+    Offline Learning Dynamics and
+  </text>
+  <text x="200" y="145" font-family="Arial, sans-serif" font-size="13" fill="#333" text-anchor="middle">
+    Catastrophic Forgetting in LLM Reasoning
+  </text>
+
+  <!-- Learning curve -->
+  <path d="M 80 200 Q 120 180, 160 185 T 240 195" stroke="#8b5cf6" stroke-width="3" fill="none" opacity="0.7"/>
+  <!-- Forgetting curve -->
+  <path d="M 240 195 Q 270 200, 300 220" stroke="#ef4444" stroke-width="3" fill="none" opacity="0.7" stroke-dasharray="5,5"/>
+</svg>

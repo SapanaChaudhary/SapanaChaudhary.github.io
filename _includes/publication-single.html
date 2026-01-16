@@ -1,0 +1,44 @@
+{% include base_path %}
+
+<div class="publication-item">
+  {% if include.post.teaser %}
+  <div class="publication-item__image">
+    <img src="{{ include.post.teaser | prepend: '/images/' | prepend: base_path }}" alt="{{ include.post.title }}">
+  </div>
+  {% endif %}
+
+  <div class="publication-item__content">
+    <div class="publication-item__title">
+      <strong>{{ include.post.title }}</strong>
+    </div>
+
+    <div class="publication-item__authors">
+      {{ include.post.authors }}
+    </div>
+
+    <div class="publication-item__venue">
+      <em>{{ include.post.venue }}</em>, {{ include.post.date | date: "%Y" }}
+    </div>
+
+    {% if include.post.excerpt %}
+    <div class="publication-item__excerpt">
+      {{ include.post.excerpt }}
+    </div>
+    {% endif %}
+
+    <div class="publication-item__links">
+      {% if include.post.paperurl %}
+        <a href="{{ include.post.paperurl }}" target="_blank">[Paper]</a>
+      {% endif %}
+      {% if include.post.poster %}
+        <a href="{{ include.post.poster }}" target="_blank">[Poster]</a>
+      {% endif %}
+      {% if include.post.slides %}
+        <a href="{{ include.post.slides }}" target="_blank">[Slides]</a>
+      {% endif %}
+      {% if include.post.talk %}
+        <a href="{{ include.post.talk }}" target="_blank">[Talk]</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
