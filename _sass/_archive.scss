@@ -18,6 +18,10 @@
     color: inherit;
     text-decoration: none;
   }
+
+  h2 {
+    color: $info-color;
+  }
 }
 
 .archive__subtitle {
@@ -285,7 +289,7 @@
 }
 
 .publication-item__title {
-  font-size: $type-size-4;
+  font-size: $type-size-5;
   margin-bottom: 0.5em;
   line-height: 1.3;
 }
