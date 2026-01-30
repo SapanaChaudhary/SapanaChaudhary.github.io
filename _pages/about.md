@@ -25,6 +25,7 @@ I have completed MS (Research) in Computational Science from IIT Madras, India. 
 Aside from work, I like to hike, cook, paint, and [photograph](https://www.instagram.com/a.thing.of.art/).
 
 ## News
+- **[Oct 2025]** Paper on reasoning distillation accepted to TMLR!
 - **[Mar 2025]** Paper on reasoning distillation out on arxiv!
 - **[Jan 2025]** AgentOccam accepted to ICLR 2025!
 - **[Sep 2024]** Paper on Risk Averse RLHF accepted to Neurips 2024!
