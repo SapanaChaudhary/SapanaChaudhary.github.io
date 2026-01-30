@@ -25,6 +25,9 @@ I have completed MS (Research) in Computational Science from IIT Madras, India. 
 Aside from work, I like to hike, cook, paint, and [photograph](https://www.instagram.com/a.thing.of.art/).
 
 ## News
+- **[Jan 2026]** VeriCoT accepted to ICLR!
+- **[Jan 2026]** New paper on kernel code optimization out on arxiv!
+- **[Dec 2025]** Serverless open source model reinforcement finetuning (RFT) launched on AWS SageMaker!
 - **[Oct 2025]** Paper on reasoning distillation accepted to TMLR!
 - **[Mar 2025]** Paper on reasoning distillation out on arxiv!
 - **[Jan 2025]** AgentOccam accepted to ICLR 2025!
@@ -33,10 +36,5 @@ Aside from work, I like to hike, cook, paint, and [photograph](https://www.insta
 - **[Aug 2024]** Joined Amazon Web Services (AWS) as an Applied Scientist!
 - **[Aug 2023]** Paper on Safe distributed OCO accepted to TMLR!
 - **[May 2023]** Back in Seattle for an Applied Scientist intern at Amazon!
-- **[Apr 2023]** Accepted to IJCAI 2023 Doctoral Consortium!
-- **[Feb 2023]** New paper on Safe distributed OCO out on arxiv! 
-- **[Feb 2023]** Gave an invited talk on 'Adaptivity and safety in sequential decision making' at Rice University! 
-- **[Sep 2022]** Paper on meta-RL in sparse reward environments accepted to NeurIPS 2022! 
-- **[Aug 2022]** Spent a wonderful summer in Seattle as an Applied Scientist intern at Amazon! 
-- **[Dec 2021]** Paper on Safe online convex optimization accepted to AAAI 2022! 
+- **[Apr 2023]** Accepted to IJCAI 2023 Doctoral Consortium! 
 
