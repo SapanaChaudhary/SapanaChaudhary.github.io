@@ -28,6 +28,7 @@ Aside from work, I like to hike, cook, paint, and [photograph](https://www.insta
 - **[Jan 2026]** VeriCoT accepted to ICLR!
 - **[Jan 2026]** New paper on kernel code optimization out on arxiv!
 - **[Dec 2025]** Serverless open source model reinforcement finetuning (RFT) launched on AWS SageMaker!
+- **[Oct 2025]** Paper on reasoning distillation accepted to TMLR!
 - **[Mar 2025]** Paper on reasoning distillation out on arxiv!
 - **[Jan 2025]** AgentOccam accepted to ICLR 2025!
 - **[Sep 2024]** Paper on Risk Averse RLHF accepted to Neurips 2024!
