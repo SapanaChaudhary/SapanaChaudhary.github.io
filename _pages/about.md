@@ -43,8 +43,8 @@ I have completed MS (Research) in Computational Science from IIT Madras, India. 
 Aside from work, I like to hike, cook, paint, and [photograph](https://www.instagram.com/a.thing.of.art/).
 
 ## News
+- **[Jul 2026]** Multi-Turn RL (MTRL) launched on Amazon SageMaker AI!
 - **[Jan 2026]** VeriCoT accepted to ICLR!
 - **[Jan 2026]** New paper on kernel code optimization out on arxiv!
 - **[Dec 2025]** Serverless open source model reinforcement finetuning (RFT) launched on AWS SageMaker!
-- **[Oct 2025]** Paper on reasoning distillation accepted to TMLR!
 
