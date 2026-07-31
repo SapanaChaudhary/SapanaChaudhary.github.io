@@ -10,6 +10,13 @@ redirect_from:
 
 Hello! I'm Sapana, a scientist at Amazon AGI, focused on reinforcement learning (RL) post-training. I build the RL systems that turn small open-source models into specialized agents and models—often matching much larger general-purpose ones. My PhD was on online learning, RL, and RLHF, with a focus on safe and adaptive sequential decision making—algorithms that satisfy unknown safety constraints and stay reliable under distribution shift. I received my doctorate from Texas A&M University (TAMU) working with [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/).
 
+## News
+- **[Aug 2026]** Presenting a hands-on tutorial at **KDD 2026**: [Multi-Turn RL for LLMs: From Theory to Practice with Amazon SageMaker AI](https://kdd2026-mtrl-tutorial.github.io/)!
+- **[Jun 2026]** [Multi-Turn RL (MTRL)](#multi-turn-reinforcement-learning-in-amazon-sagemaker-ai) launched on Amazon SageMaker AI!
+- **[Jan 2026]** VeriCoT accepted to ICLR!
+- **[Jan 2026]** New paper on kernel code optimization out on arxiv!
+- **[Dec 2025]** Serverless open source model [Reinforcement Fine-Tuning (RFT)](#reinforcement-fine-tuning-on-amazon-bedrock-and-sagemaker-ai) launched on AWS SageMaker!
+
 ## Multi-Turn Reinforcement Learning in Amazon SageMaker AI
 
 I’m the **science tech lead** for **SageMaker AI Multi-Turn RL (MTRL)**, a fully serverless model customization service that runs the entire agentic RL loop—rollout orchestration, trajectory collection, training, checkpoints, and evaluation—on open-source models like **Qwen, GPT-OSS, and Gemma**, with no infrastructure setup required. To learn more, see this best-practices guide using the Amazon Science SOP (Standard Operating Procedure)-Bench benchmark as a running example: [Best practices for Multi-Turn RL in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/).
@@ -24,7 +31,7 @@ Before MTRL, I was a core contributor to **Amazon Bedrock and SageMaker AI Reinf
 
 <!-- Happy to chat about agentic RL, post-training recipes, or how to get RL working on your own agent—Please email to connect. -->
 
-## Selected Work
+## Selected Research Work
 
 1. **MaxCode** (arXiv 2026) — max-reward RL framework for LLM-driven code optimization on CUDA ([KernelBench](https://github.com/ScalingIntelligence/KernelBench)) and C++ (PIE). +20.3% relative improvement in absolute speedup value and +10.1% in relative speedup ranking over baselines.
 2. **RA-RLHF** (NeurIPS 2024) — CVaR-based PPO objective that suppresses rare-but-significant toxic generations during RLHF.
@@ -41,10 +48,4 @@ Previously, I was a research fellow in the [Machine Teaching Group](https://mach
 I have completed MS (Research) in Computational Science from IIT Madras, India. My advisors during MS were [Dr. Balaraman Ravindran](http://www.cse.iitm.ac.in/~ravi/) and [Dr. Radha Krishna Ganti](http://www.ee.iitm.ac.in/~rganti/). My MS thesis is titled 'On Learning Smooth Policies in Imitation Learning'. -->
 
 Aside from work, I like to hike, cook, paint, and [photograph](https://www.instagram.com/a.thing.of.art/).
-
-## News
-- **[Jun 2026]** Multi-Turn RL (MTRL) launched on Amazon SageMaker AI!
-- **[Jan 2026]** VeriCoT accepted to ICLR!
-- **[Jan 2026]** New paper on kernel code optimization out on arxiv!
-- **[Dec 2025]** Serverless open source model reinforcement finetuning (RFT) launched on AWS SageMaker!
 
