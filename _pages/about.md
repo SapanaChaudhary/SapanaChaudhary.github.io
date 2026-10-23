@@ -11,17 +11,26 @@ redirect_from:
 Hello! I'm Sapana, a scientist at Amazon AGI, focused on reinforcement learning (RL) post-training. I build the RL systems that turn small open-source models into specialized agents and models—often matching much larger general-purpose ones. My PhD was on online learning, RL, and RLHF, with a focus on safe and adaptive sequential decision making—algorithms that satisfy unknown safety constraints and stay reliable under distribution shift. I received my doctorate from Texas A&M University (TAMU) working with [Dr. Dileep Kalathil](http://people.tamu.edu/~dileep.kalathil/).
 
 ## News
-- **[Aug 2026]** Presenting a hands-on tutorial at **KDD 2026**: [Multi-Turn RL for LLMs: From Theory to Practice with Amazon SageMaker AI](https://kdd2026-mtrl-tutorial.github.io/)!
+- **[Oct 2026]** [Training Session APIs](#training-session-apis-in-amazon-sagemaker-ai) launched on Amazon SageMaker AI, with an open-source [RL cookbook](https://github.com/aws/sagemaker-training-sessions-cookbook)!
+- **[Aug 2026]** Presented a hands-on tutorial at **KDD 2026** to 80+ attendees: [Multi-Turn RL for LLMs: From Theory to Practice with Amazon SageMaker AI](https://kdd2026-mtrl-tutorial.github.io/)!
 - **[Jun 2026]** [Multi-Turn RL (MTRL)](#multi-turn-reinforcement-learning-in-amazon-sagemaker-ai) launched on Amazon SageMaker AI!
 - **[Jan 2026]** VeriCoT accepted to ICLR!
 - **[Jan 2026]** New paper on kernel code optimization out on arxiv!
 - **[Dec 2025]** Serverless open source model [Reinforcement Fine-Tuning (RFT)](#reinforcement-fine-tuning-on-amazon-bedrock-and-sagemaker-ai) launched on AWS SageMaker!
+
+## Training Session APIs in Amazon SageMaker AI
+
+[**SageMaker AI Training Session APIs**](https://docs.aws.amazon.com/sagemaker/latest/dg/customizing-models-training-sessions.html) run model customization on stateful, serverless GPU sessions. Instead of submitting a monolithic training script, you call operations like `forward_backward()`, `optim_step()`, and `sample()` and compose them into any training loop—SFT, PPO, GRPO, multi-turn RL, or your own loss—on open-source models like **GPT-OSS, Gemma, and Qwen**, while the service handles distributed execution. I led model onboarding, development of the RL and preference recipes, and end-to-end accuracy testing, and built the [**training sessions cookbook**](https://github.com/aws/sagemaker-training-sessions-cookbook): runnable SFT, RL (math and sandbox-graded code), and KTO preference recipes.
 
 ## Multi-Turn Reinforcement Learning in Amazon SageMaker AI
 
 I’m the **science tech lead** for **SageMaker AI Multi-Turn RL (MTRL)**, a fully serverless model customization service that runs the entire agentic RL loop—rollout orchestration, trajectory collection, training, checkpoints, and evaluation—on open-source models like **Qwen, GPT-OSS, and Gemma**, with no infrastructure setup required. To learn more, see this best-practices guide using the Amazon Science SOP (Standard Operating Procedure)-Bench benchmark as a running example: [Best practices for Multi-Turn RL in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/best-practices-for-multi-turn-reinforcement-learning-in-amazon-sagemaker-ai/).
 
 ![Multi-turn reinforcement learning service overview in Amazon SageMaker AI](/images/multi-turn-rl-sagemaker.jpg)
+
+### KDD 2026 Hands-on Tutorial
+
+I presented [**Multi-Turn RL for LLMs: From Theory to Practice with Amazon SageMaker AI**](https://kdd2026-mtrl-tutorial.github.io/) in person at KDD 2026 in Jeju, Korea, where participants trained GPT-OSS-20B to drive a SOP-Bench agent end to end. The hall had **80+ attendees** from **~16 countries**, with **63 running the hands-on labs** and **~40% from industry** (cloud and big-tech AI labs, fintech, autonomous vehicles, healthcare AI, and more). The session drew enthusiastic engagement, with participants praising the hands-on labs as easy to follow from first rollout to final evaluation.
 
 ## Reinforcement Fine-Tuning on Amazon Bedrock and SageMaker AI
 
